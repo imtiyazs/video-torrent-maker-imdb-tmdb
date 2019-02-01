@@ -12,8 +12,8 @@ Creates a torrent package of video file that will include:
 All the files will be packaged into one torrent file with best seeders and trackers online right now.
 
 Usage (Development):
-1. git clone https://github.com/imtiyazs/NodeTorrentCreatorWithIMDBInformation.git
-2. cd NodeTorrentCreatorWithIMDBInformation
+1. git clone https://github.com/imtiyazs/video-torrent-maker-imdb-tmdb.git
+2. cd video-torrent-maker-imdb-tmdb
 3. npm install
 4. npm start "./directory_path_to_video_files" "imdb OR tmdb" 
 
