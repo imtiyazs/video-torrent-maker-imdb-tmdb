@@ -1,0 +1,27 @@
+{
+  "name": "torrent-maker",
+  "productName": "Torrent Maker",
+  "version": "1.0.0",
+  "description": "Torrent Maker",
+  "scripts": {
+    "start": "node app/main.js"
+  },
+  "private": true,
+  "author": {
+    "name": "Aliascorp",
+    "email": "aliasdevelopment@gmail.com"
+  },
+  "pkg": {
+    "scripts": "build/**/*.js",
+    "assets": "views/**/*"
+  },
+  "license": "Free",
+  "devDependencies": {},
+  "dependencies": {
+    "co": "^4.6.0",
+    "create-torrent": "^3.33.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "imdb-api": "^4.0.2",
+    "request": "^2.88.0"
+  }
+}
