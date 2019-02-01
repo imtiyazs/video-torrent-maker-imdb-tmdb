@@ -26,12 +26,13 @@ switch (process.platform) {
 
 let DirPath = './',
     MovieFolders = [],
-    BatchInformation = []
+    BatchInformation = [],
+    InfoServer = 'tmdb'
 
-if (process.argv.length > 3) {
+if (process.argv.length > 4) {
 
     console.log('Executable parameters exceeded. Allowed only one parameter.')
-    console.log('program.exe "<dir_path>"')
+    console.log('program.exe "<dir_path> <tmdb | imdb>"')
 
     setTimeout(() => {
         process.exit(1)
@@ -43,6 +44,10 @@ if (process.argv.length > 3) {
         DirPath = process.argv[2]
     }
 
+    if (process.argv[3] !== undefined && process.argv[3] !== null && process.argv[3] !== 'undefined' && process.argv[3] !== 'null') {
+        InfoServer = process.argv[3]
+    }
+
     if (DirPath == undefined) {
         console.log('Undefined directory path')
         process.exit()
@@ -51,73 +56,103 @@ if (process.argv.length > 3) {
     console.log('Starting Torrent Creator.')
     ReadFilesFromFolder()
         .then(() => {
-            console.log('Processing Files...')
             setTimeout(() => {
                 require('co')(function* () {
                     for (let i in MovieFolders) {
+                        console.log('Processing Files: ' + Math.round(i + 1) + ' / ' + MovieFolders.length)
+
                         let fileObj = MovieFolders[i]
                         console.log('-----------' + fileObj.folderName + '------------')
                         let screenshotsArray = []
                         screenshotsArray = yield ExtractScreenshotsFromVideo(fileObj.folderPath, fileObj.fileName)
                         let arrayOfNames = yield ConstructMovieName(fileObj.folderName)
-                        console.log('Searching Movie on IMDB API...')
+
+                        let information = null
+
+                        if (InfoServer == 'imdb') {
+                            console.log('Searching Movie on IMDB Server...')
+                        } else {
+                            console.log('Searching Movie on TMDB Server...')
+                        }
+
+                        let movieName = null,
+                            posterURL = null
+
                         require('co')(function* () {
                             for (let i in arrayOfNames) {
-                                let information = yield GetIMDBInformation(arrayOfNames[i])
-                                if (information != null) {
-                                    console.log('Requesting For Movie Thumbnail and Image...')
-                                    request.get(information.poster, {
-                                        encoding: 'binary'
-                                    }, (error, response, body) => {
-                                        if (error) {
-                                            console.log('Cannot fetch thumbnail: ' + error)
+                                if (InfoServer === 'imdb') {
+                                    information = yield GetIMDBInformation(arrayOfNames[i])
+                                    if (information != null) {
+                                        movieName = arrayOfNames[i]
+                                        posterURL = information.poster
+                                        break
+                                    }
+                                } else {
+                                    information = yield GetTMDBInformation(arrayOfNames[i])
+                                    if (information != null) {
+                                        movieName = arrayOfNames[i]
+                                        posterURL = constant.TMDB_IMAGE_API + information.poster_path
+                                        break
+                                    }
+                                }
+                            }
+
+                            if (information !== null) {
+
+                                console.log('Requesting For Movie Thumbnail and Image...')
+
+                                request.get(posterURL, {
+                                    encoding: 'binary'
+                                }, (error, response, body) => {
+                                    if (error) {
+                                        console.log('Cannot fetch thumbnail: ' + error)
+                                    } else {
+                                        fs.writeFile(path.join(fileObj.folderPath, 'poster.jpg'), body, 'binary', (err) => {
+                                            if (err) {
+                                                console.log('Cannot write thumbnail: ' + error)
+                                            }
+                                        })
+                                    }
+
+                                    // New Update of HLS URL added to info.json
+                                    information['HLSUrl'] = 'http://sample.com/' + fileObj.folderName + '/playlist.m3u8'
+
+                                    fs.writeFile(path.join(fileObj.folderPath, 'info.json'), JSON.stringify(information), (err) => {
+                                        if (err) {
+                                            console.log('Skipping Information File: ' + err)
+                                        }
+                                    })
+
+                                    console.log('Creating Torrent File...')
+                                    console.log('NOTE: TORRENT CREATION SPEED DEPENDS UPON SIZE OF FILE. PLEASE HAVE PATIENCE FOR LARGE FILE SIZE.')
+                                    createTorrent(fileObj.folderPath, function (err, torrent) {
+                                        if (err) {
+                                            console.log('Skipping File: Error creating torrent files: ' + err)
                                         } else {
-                                            fs.writeFile(path.join(fileObj.folderPath, 'poster.jpg'), body, 'binary', (err) => {
+                                            fs.writeFile(path.join(DirPath, fileObj.folderName + '.torrent'), torrent, (err) => {
                                                 if (err) {
-                                                    console.log('Cannot write thumbnail: ' + error)
+                                                    console.log('Skipping File: Cannot Write Torrent File: ' + err)
+                                                } else {
+
+                                                    BatchInformation.push({
+                                                        torrentName: fileObj.folderName + '.torrent',
+                                                        torrentDirectory: fileObj.folderName,
+                                                        torrentImage: path.join(fileObj.folderPath, 'poster.jpg'),
+                                                        torrentSRT: fileObj.srtFile,
+                                                        torrentScreenshots: screenshotsArray,
+                                                        IMDBInfoFile: path.join(fileObj.folderPath, 'info.json'),
+                                                        torrentInformation: JSON.stringify(information)
+                                                    })
+
+                                                    console.log(fileObj.folderName + ' Torrent Created Successfully...')
                                                 }
                                             })
                                         }
-
-                                        // New Update of HLS URL added to info.json
-                                        information['HLSUrl'] = 'http://sample.com/' + fileObj.folderName + '/playlist.m3u8'
-
-                                        fs.writeFile(path.join(fileObj.folderPath, 'info.json'), JSON.stringify(information), (err) => {
-                                            if (err) {
-                                                console.log('Skipping Information File: ' + err)
-                                            }
-                                        })
-
-                                        console.log('Creating Torrent File...')
-                                        console.log('NOTE: TORRENT CREATION SPEED DEPENDS UPON SIZE OF FILE. PLEASE HAVE PATIENCE FOR LARGE FILE SIZE.')
-                                        createTorrent(fileObj.folderPath, function (err, torrent) {
-                                            if (err) {
-                                                console.log('Skipping File: Error creating torrent files: ' + err)
-                                            } else {
-                                                fs.writeFile(path.join(DirPath, fileObj.folderName + '.torrent'), torrent, (err) => {
-                                                    if (err) {
-                                                        console.log('Skipping File: Cannot Write Torrent File: ' + err)
-                                                    } else {
-
-                                                        BatchInformation.push({
-                                                            torrentName: fileObj.folderName + '.torrent',
-                                                            torrentDirectory: fileObj.folderName,
-                                                            torrentImage: path.join(fileObj.folderPath, 'poster.jpg'),
-                                                            torrentSRT: fileObj.srtFile,
-                                                            torrentScreenshots: screenshotsArray,
-                                                            IMDBInfoFile: path.join(fileObj.folderPath, 'info.json'),
-                                                            RawIMDBInformation: JSON.stringify(information)
-                                                        })
-
-                                                        console.log(fileObj.folderName + ' Torrent Created Successfully...')
-                                                    }
-                                                })
-                                            }
-                                        })
                                     })
+                                })
 
-                                    break
-                                }
+                            } else {
+                                console.log('Movie/TV show Information not found on ' + InfoServer + ' server for : ' + fileObj.folderName)
                             }
                         })
                     }
@@ -151,7 +186,7 @@ process.on('beforeExit', () => {
  */
 function ConstructMovieName(movieName) {
     return new Promise((resolve) => {
-        console.log('Extracting Movie Name For IMDB Search...')
+        console.log('Extracting Movie Name For Search...')
         let Name = movieName.replace(/\./g, ' ');
         let splitName = Name.split(' '),
             arrayOfNames = [],
@@ -247,6 +282,81 @@ function GetIMDBInformation(movieName) {
 }
 
 /**
+ * Get movie information from TMDB API
+ * @param {*} movieName String
+ */
+function GetTMDBInformation(movieName) {
+    return new Promise((resolve) => {
+        let replaceSpaceMovieName = movieName.split(' ').join('%20');
+
+        // Search for movie
+        request.get(constant.TMDBMovieSearchURL + replaceSpaceMovieName, (err, response) => {
+            if (err) {
+                console.log(err)
+                return resolve(null)
+            }
+
+            let data = null
+
+            try {
+                data = JSON.parse(response.body)
+            } catch (err) {
+                return resolve(null)
+            }
+
+            if (data.results.length == 0 || data.results == undefined) {
+
+                // Search for TV Show
+                request.get(constant.TMDBTVShowSearchURL + replaceSpaceMovieName, (err, res) => {
+                    if (err) {
+                        console.log(err)
+                        return resolve(null)
+                    }
+
+                    try {
+
+                        data = JSON.parse(res.body)
+                        if (data.results.length == 0 || data.results == undefined) {
+                            return resolve(null)
+                        } else {
+
+                            TMDBIDValidator(data.results)
+                                .then(validatedResult => {
+                                    if (validatedResult != null) {
+                                        return resolve(validatedResult)
+                                    } else {
+                                        return resolve(null)
+                                    }
+                                })
+
+                        }
+
+                    } catch (err) {
+
+                        return resolve(null)
+
+                    }
+                })
+
+            } else {
+
+                TMDBIDValidator(data.results)
+                    .then(validatedResult => {
+                        if (validatedResult != null) {
+                            return resolve(validatedResult)
+                        } else {
+                            return resolve(null)
+                        }
+                    })
+
+            }
+        })
+    })
+}
+
+
+
+/**
  * Capture screenshots
  */
 function ExtractScreenshotsFromVideo(movieDir, movieName) {
@@ -275,5 +385,74 @@ function ExtractScreenshotsFromVideo(movieDir, movieName) {
                     }
                 })
             })
+    })
+}
+
+function TMDBIDValidator(results) {
+    return new Promise(resolve => {
+        ReadMovieIDFromTextFile()
+            .then(availableIDs => {
+
+                if (availableIDs != null) {
+
+                    results.forEach(result => {
+                        availableIDs.forEach(id => {
+                            if (result.id == id) {
+                                return resolve(result)
+                            }
+                        })
+                    })
+
+                    return resolve(null)
+
+                } else {
+
+                    if (results.length > 0) {
+                        return resolve(results[0])
+                    } else {
+                        return resolve(null)
+                    }
+
+                }
+            })
+    })
+}
+/**
+ * Read movie id from text file for TMDB
+ */
+function ReadMovieIDFromTextFile() {
+    return new Promise((resolve) => {
+        let movieToSearchIDs = []
+
+        console.log('Reading TMDB ID from File: ' + path.join(DirPath, 'tmdb_ids.txt'))
+
+        fs.exists(path.join(DirPath, 'tmdb_ids.txt'), (exists) => {
+            if (exists) {
+                fs.readFile(path.join(DirPath, 'tmdb_ids.txt'), 'utf8', (err, data) => {
+                    if (err) {
+                        console.log('Error reading text file: ' + file + ' Exiting: ' + err)
+                        return resolve(null)
+                    }
+
+                    try {
+                        let splitLines = data.split('\r\n')
+                        splitLines.forEach(line => {
+                            let splitForID = line.split('tmdb id')
+                            if (splitForID[1] !== undefined) {
+                                movieToSearchIDs.push(splitForID[1].trim())
+                            }
+                        })
+
+                        return resolve(movieToSearchIDs)
+
+                    } catch (err) {
+                        console.log('Invalid TMDB File Standards: ' + file + '. Error: ' + err)
+                        return resolve(null)
+                    }
+                })
+            } else {
+                return resolve(null)
+            }
+        })
     })
 }

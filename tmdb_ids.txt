@@ -1,0 +1,1324 @@
+﻿#Name: 11-11-11 - BluRay 1080p                                    tmdb id 51248 
+#Name: 12 Horas - BluRay 1080p                                    tmdb id 79548
+#Name: Sacred Games                                               tmdb id 79352
+#Name: 12 Rounds 2 - BluRay 1080p                                 tmdb id 195269
+#Name: 12.Strong.2018.1080p.BluRay                                tmdb id 429351
+#Name: 13° Distrito - BluRay 1080p                                tmdb id 15357
+#Name: 15h17 Trem Para Paris.2018.1080p.BluRay                    tmdb id 453201
+#Name: 18 Anos e Ainda Virgem Sem Corte BluRay                    tmdb id 14912
+#Name: 1941 (Uma Guerra Muito Louca) BluRay                       tmdb id 11519
+#Name: 2 Coelhos BluRay 1080p Nacional                            tmdb id 102784
+#Name: 2 Dias em Nova York - BluRay 1080p                         tmdb id 84165
+#Name: 2;22 Encontro Marcado - BluRay 1080p(1)                    tmdb id 269795
+#Name: 20 Anos Mais Jovem - BluRay 1080p                          tmdb id 173185
+#Name: 211.O.Grande.Assalto.2018.1080p                            tmdb id 500919
+#Name: 22 July 2018                                               tmdb id 474354
+#Name: 22 Milhas 2018                                             tmdb id 347375
+#Name: 3 Dias para Matar - BluRay 1080p                           tmdb id 192102
+#Name: 30 Noites de Atividade Paranormal - BluRay 1080p           tmdb id 157058
+#Name: 300 – A Ascensão do Império – BluRay 1080p                 tmdb id 53182
+#Name: 3096 Dias de Cativeiro - BluRay 1080p                      tmdb id 166666
+#Name: 42 – A História de Uma Lenda - BluRay 1080p                tmdb id 109410
+#Name: 47 Ronins - BluRay 1080p                                   tmdb id 64686
+#Name: 5 Dias de Guerra - BluRay 1080p                            tmdb id 50601
+#Name: 6 Dias - BluRay 1080p                                      tmdb id 347984
+#Name: 7.Dias.em.Entebbe.2018                                     tmdb id 433627
+#Name: A Aparição - BluRay 1080p                                  tmdb id 10017
+#Name: A Arte da Paixão - BluRay 1080p                            tmdb id 180951
+#Name: A Batalha do Ano - BluRay 1080p                            tmdb id 109417
+#Name: A Bela e a Fera - BluRay 1080p                             tmdb id 321612
+#Name: A Boa Mentira - BluRay  1080p                              tmdb id 250538
+#Name: A Caçada - BluRay 1080p                                    tmdb id 157845
+#Name: A Casa do Med 2018                                         tmdb id 467632
+#Name: A Casa do Medo 2018                                        tmdb id 476299
+#Name: A Casa dos Mortos - BluRay 1080p                           tmdb id 234212
+#Name: A Casa Silenciosa - BluRay 1080p                           tmdb id 92182
+#Name: A Caverna - BluRay 1080p                                   tmdb id 9042
+#Name: A Chave Mestra - BluRay 1080p                              tmdb id 9913
+#Name: A Confissão - BluRay 1080p                                 tmdb id 97481
+#Name: A Conquista do Império - BluRay 1080p                      tmdb id 82190
+#Name: A Conspiração - BluRay 1080p                               tmdb id 85414
+#Name: A Culpa é das Estrelas (Versão Estendida)- BluRay 1080p    tmdb id 222935
+#Name: A Datilógrafa - BluRay 1080p                               tmdb id 136403
+#Name: A Difícil Arte de Amar - BluRay 1080p                      tmdb id 13818
+#Name: A Difícil Vingança - BluRay 1080p                          tmdb id 109500
+#Name: A Entidade - BluRay 1080p                                  tmdb id 82507
+#Name: A Escalada - BluRay 1080p                                  tmdb id 421447
+#Name: A Escolha de Sofia - Bluray 1080p                          tmdb id 15764
+#Name: A Estranha Vida de Timothy Green - BluRay 1080p            tmdb id 71864
+#Name: A Extraordinária Jornada do Faquir 2018                    tmdb id 407447
+#Name: A Face da Morte - BluRay 1080p                             tmdb id 119278
+#Name: A Família - BluRay 1080p                                   tmdb id 112205
+#Name: A Família Flynn - BluRay 1080p                             tmdb id 78571
+#Name: A Fera - BluRay 1080p                                      tmdb id 38117
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/767.mp4 #Name: A Fera 2017                                               
+#Name: A Fera 2018                                                tmdb id 470918
+#Name: A Filha do Meu Melhor Amigo - BluRay 1080p                 tmdb id 89008
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/771.mp4 #Name: A Freira 2018
+#Name: A Freira 2018-The Nun                                      tmdb id 439079
+#Name: A Fuga - BluRay 1080p                                      tmdb id 97614
+#Name: A Fúria de Simuroc - BluRay 1080p                          tmdb id 71628
+#Name: A Fúria de Vajra - BluRay 1080p                            tmdb id 254672
+#Name: A Gaiola Dourada - BluRay 1080p                            tmdb id 186161
+#Name: A Gangue Zip Zap - BluRay 1080p                            tmdb id 159774 
+#Name: A Garota da Capa Vermelha - BluRay 1080p                   tmdb id 49730
+#Name: A Ghost Story (2018)                                       tmdb id 428449
+#Name: A Grande Escolha - BluRay 1080p                            tmdb id 200505
+#Name: A Grande Volta - BluRay 1080p                              tmdb id 197629
+#Name: A Guilhotina Voadora - Bluray 1080p                        tmdb id 62071
+#Name: A História de Ester - BluRay 1080p                         tmdb id 199153
+#Name: A História sem Fim - Bluray 1080p                          tmdb id 34584
+#Name: A Hora da Escuridão - BluRay 1080p                         tmdb id 71469
+#Name: A Hora Mais Escura - BluRay 1080p                          tmdb id 97630
+#Name: A Inundação - BluRay 1080p                                 tmdb id 443109
+#Name: A Invocação 2 - BluRay 1080p                               tmdb id 257527
+#Name: A Lenda do Mestre Chinês - BluRay 1080p                    tmdb id 75948
+#Name: ALenda do Tesouro Perdido Livro dos Segredos BluRay1080p   tmdb id 6637
+#Name: A Lenda do Tesouro Perdido BluRay 1080p                    tmdb id 2059
+#Name: A Lenda Negra - BluRay 1080p                               tmdb id 280000
+#Name: A Liga Extraordinária - BluRay 1080p                       tmdb id 8698
+#Name: A Lista - BluRay 1080p                                     tmdb id 256731
+#Name: A Lista de Schindler BluRay 1080p                          tmdb id 424
+#Name: A Maldição das Sombras - BluRay 1080p                      tmdb id 198677
+#Name: A Malvada - BluRay 1080p                                   tmdb id 705
+#Name: A Maquina do Tempo Bluray 1080p                            tmdb id 2135
+#Name: A Marca do Medo - BluRay 1080p                             tmdb id 193612
+#Name: A Menina que Roubava Livros - BluRay 1080p                 tmdb id 203833
+#Name: A Merry Friggin Christmas - BluRay 1080p                   tmdb id 286532
+#Name: A Minha Canção de Amor - BluRay 1080p                      tmdb id 43609
+#Name: A Minha Casa Caiu - BluRay 1080p                           tmdb id 187596
+#Name: A Morte do Superman.2018                                   tmdb id 487670
+#Name: A Mosca - BluRay 1080p                                     tmdb id 9426
+#Name: A Mulher de Preto - BluRay 1080p                           tmdb id 65086
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/806.mp4 #Name: A Mulher de Preto (2012).Bluray.1080p
+#Name: A Mulher de Preto 2 (Anjo da Morte) - BluRay 1080p         tmdb id 288158
+#Name: A Mulher Mais Assassinada do Mundo.2018                    tmdb id 478100
+#Name: A Orfã - BluRay 1080p                                      tmdb id 21208
+#Name: A Paixão de Cristo - BluRay 1080p                          tmdb id 615
+#Name: A Pata do Macaco - BluRay 1080p                            tmdb id 547844
+#Name: A Pele Fria 2018                                           tmdb id 428399
+#Name: A Pequena Sereia 2018                                      tmdb id 385448
+#Name: A Perseguição - BluRay 1080p                               tmdb id 75174
+#Name: A Presença - BluRay 1080pb                                 tmdb id 54700
+#Name: À Primeira Luz - At First Light - First Light 2018         tmdb id 470894
+#Name: A Primeira Noite de Crime 2018                             tmdb id 442249
+#Name: A Primeira Vez - BluRay 1080p                              tmdb id 84199
+#Name: A Prova de Fogo - BluRay 1080p                             tmdb id 14438
+#Name: A Queda de Berlim 2018                                     tmdb id 429886
+#Name: A Rede Social – BluRay 1080p                               tmdb id 37799
+#Name: A Rosa Púrpura do Cairo - BluRay 1080p                     tmdb id 10849
+#Name: A Rota Selvagem 2018                                       tmdb id 407890
+#Name: A Senha (Swordfish) - BluRay 1080p                         tmdb id 9705
+#Name: A Sobrevivente - BluRay 1080p                              tmdb id 865
+#Name: A Sombra e a Escuridão - BluRay 1080p                      tmdb id 10586
+#Name: A Super Agente - BluRay 1080p                              tmdb id 93837
+#Name: A Tentação - BluRay 1080p                                  tmdb id 63493
+#Name: A Transfiguração - BluRay 1080p                            tmdb id 392818
+#Name: A Troca - BluRay 1080p                                     tmdb id 3580
+#Name: A Última Festa de Solteiro - BluRay 1080p                  tmdb id 12309
+#Name: A Última Testemunha 2018                                   tmdb id 519956
+#Name: A Viagem do Peregrino da Alvorada - BluRay 1080p           tmdb id 10140
+#Name: A Vida Secreta das Abelhas - BluRay 1080p                  tmdb id 12837
+#Name: A Vida Secreta de Walter Mitty - BluRay 1080p              tmdb id 116745
+#Name: A Vingança de Julia - BluRay 1080p                         tmdb id 84228
+#Name: A Vinganca de Lefty Brown 2017                             tmdb id 438457
+#Name: A Volta do Todo Poderoso - BluRay 1080p                    tmdb id 2698
+#Name: A Voz de Uma Geração - BluRay 1080p                        tmdb id 157360
+#Name: A.Abelhinha.Maya.O.Filme.2018                              tmdb id 499088
+#Name: A.Caminho.Da.Fe.2018.1080p                                 tmdb id 430446
+#Name: A.Forma.da.Agua.2018.1080p.BluRay                          tmdb id 399055
+#Name: A.Garota.Perfeita.2018                                     tmdb id 425124
+#Name: A.I. (Inteligência Artificial ) - BluRay 1080p             tmdb id 644
+#Name: A.Maldição.da.Casa.do.Lago.2018                            tmdb id 475603
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/844.mp4 #Name: A.Maldição.da.Casa.do.Lago.2018.1080p
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/846.mp4 #Name: A.Morte.do.Superman.2018.1080p
+#Name: A.Musica.do.Silencio.2017                                  tmdb id 475242
+#Name:  A.Noite.do.Jogo.2018                                      tmdb  id 445571
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/849.mp4 #Name: A.Noite.do.Jogo.2018.1080p
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/848.mp4 #Name: A.Noite.do.Jogo.2018.1080p.BluRay.x264-GECKOS
+#Name: A.Princesa e a Plebeia 2018                                tmdb id 556803
+#NameA.Princesa.Encantada.Um.Mistério.Real.2018.1080p             tmdb id 510096
+#Name: A.Última.Jornada.2018.720p.BluRay                          tmdb id 438259
+#Name: A.Última.Testemunha.2018                                   tmdb id 519956
+#Name: A.Vila.2018.1080p.BluRay                                   tmdb id 437109
+#Name: Abdução - BluRay 1080p                                     tmdb id 258193
+#Name: Abraham Lincoln - Caçador de Vampiros - BluRay 1080p       tmdb id 72331
+#Name: Academia de Vampiros  (O Beijo das Sombras) - BluRay       tmdb id 203739
+#Name: Ace Ventura (Um Detetive Diferente) - BluRay 1080p         tmdb id 3049
+#Name: Ace Ventura 2 – Um Maluco na África - BluRay 1080p         tmdb id 9273
+#Name: Acertando.o.Passo.2018                                     tmdb id 426030
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/862.mp4 #Name: Acertando.o.Passo.2018.720p
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/861.mp4 #Name: Acertando.o.Passo.2018.720p.BluRay
+#Name: Acorrentados - BluRay 1080p                                tmdb id 116979
+#Name: Action.Point.2018.1080p                                    tmdb id 454283
+#Name: Adeus, Minha Rainha - BluRay 1080p                         tmdb id 99579
+#Name: Adorável Molly - BluRay 1080p                              tmdb id 74505
+#Name: Adorável Professora - BluRay 1080p                         tmdb id 174321
+#Name: Adrift.2018                                                tmdb id 429300
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/869.mp4 #Name: Adrift.2018.1080p
+#Name: Aeroporto - BluRay 1080p                                   tmdb id 10671
+#Name: Agente C - Dupla Identidade - BluRay 1080p                 tmdb id 84336
+#Name: Agente de Separação - BluRay 1080p                         tmdb id 160085
+#Name: Agora É Para Sempre - BluRay 1080p                         tmdb id 90369
+#Name: Ajuste de Contas BluRay 1080p                              tmdb id 64807
+#Name: Ajuste Final - BluRay 1080p                                tmdb id 379
+#Name: Albert Nobbs - BluRay 1080p                                tmdb id 73873
+#Name: Além da Escuridão Star Trek - BluRay 1080p                 tmdb id 54138
+#Name: Alex Strangelove 2018                                      tmdb  id 511785
+#Name: Alguem Como Eu 2018                                        tmdb id 418963
+#Name: Alibi.com - BluRay 1080p                                   tmdb id 398929
+#Name: Aliens.Ate.My.Homework.2018.1080p.Netflix                  tmdb id 505618
+#Name: Almost.Friends.2016                                        tmdb id 436459
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/882.mp4 #Name: Almost.Friends.2016.1080p
+#Name: Along with the Gods The Two Worlds 2018                    tmdb id 397567
+#Name: Alpha 2018                                                 tmdb id 399360
+#Name: Amaldiçoado - BluRay 1080p                                 tmdb id 149509
+#Name: Amanhecer Violento - BluRay 1080p                          tmdb id 60747
+#Name: Amante a Domicílio - BluRay 1080p                          tmdb id 214030
+#Name: Amantes Eternos - BluRay 1080p                             tmdb id 152603
+#Name: American Pie O Reencontro - BluRay 1080p                   tmdb id 71552
+#Name: Amityville (O Despertar) - BluRay 1080p                    tmdb id 203835
+#Name: Amor & Tulipas - BluRay 1080p                              tmdb id 257785
+#Name: Amor Bandido - BluRay 1080p                                tmdb id 103731
+#Name: Amor Certo Hora Errada - BluRay 1080p                      tmdb id 209406
+#Name: Amor e Turbulência - BluRay 1080p                          tmdb id 168055
+#Name: Amor Pleno - BluRay 1080p                                  tmdb id 60281
+#Name: Amor por Contrato - BluRay 1080p                           tmdb id 41479
+#Name: Amor Sem Fim - BluRay 1080p                                tmdb id 226857
+#Name: Amor Zumbi - BluRay 1080p                                  tmdb id 77067
+#Name: An.Extremely.Goofy.Movie.2000.1080p                        tmdb id 15653
+#Name: Andorinhas e Amazonas - BluRay 1080p                       tmdb id 347035
+#Name: Aniquilacao.2018.1080p.BluRay                              tmdb id 300668
+#Name: Anjos Assassinos [VD] - BluRay 1080p                       tmdb id 10655
+#Name: Anjos da Lei - BluRay 1080p                                tmdb id 64688
+#Name: Anjos da Lei 2 - BluRay 1080p                              tmdb id 187017
+#Name: Anjos da Noite 4 O Despertar - BluRay 1080p                tmdb id 52520
+#Name: Anna Karenina - BluRay 1080p                               tmdb id 96724
+#Name: Annabelle - BluRay 1080p                                   tmdb id 250546
+#Name: Annihilation.2018.720p                                     tmdb id 300668
+#Name: Anon 2018                                                  tmdb id 396806
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/912.mp4 #Name: Anon.2018.MULTi.1080p
+#Name: Antes de Partir - BluRay 1080p                             tmdb id 7350
+#Name: Ao Redor Do Bloco - BluRay 1080p                           tmdb id 215928
+#Name: Apartamento 143 - BluRay 1080p                             tmdb id 97795
+#Name: Apartamento 212 A Infestação 2018                          tmdb id 483987
+#Name: Apenas Uma Chance - BluRay 1080p                           tmdb id 209361
+#Name: Apenas uma Noite - BluRay 1080p                            tmdb id 23830
+#Name: Apenas.o.Começo.2018.1080p.BluRay                          tmdb id 398177
+#Name: Apenas.um.Garoto.em.Nova.York.2018                         tmdb id 95608
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/920.mp4 #Name: Apenas.um.Garoto.em.Nova.York.2018.1080p
+#Name: Aposta Máxima - BluRay 1080p                               tmdb id 146238
+#Name: Apostolo 2018                                              tmdb id 424121
+#Name: Aranhas - BluRay 1080p                                     tmdb id 164331
+#Name: Arcade Voce Vai Entrar Nesse Jogo 2018                     tmdb id 444490
+#Name: Ardida como Pimenta - BluRay 1080p                         tmdb id 14117
+#Name: Arena dos Sonhos - BluRay 1080p                            tmdb id 105528
+#Name: Armações do Amor - BluRay 1080p                            tmdb id 6877
+#Name: Armadilha - BluRay 1080p                                   tmdb id 1844
+#Name: Arquivo X (O Filme) V.E - BluRay 1080p                     tmdb id 4087
+#Name: Arraste-me Para o Inferno - BluRay 1080p                   tmdb id 16871
+#Name: Arremesso de Ouro - BluRay 1080p                           tmdb id 198185
+#Name: As Apimentadas (Desafio Mundial) - BluRay 1080p            tmdb id 467248
+#Name: As Aventuras do Barão de Munchaüsen - BluRay 1080p         tmdb id 14506
+#Name: As Bem-Armadas – Sem Cortes BluRay 1080p                   tmdb id 136795
+#Name: As Crônicas de Nárnia (O Príncipe Caspian) – BluRay 1080p  tmdb id 2454
+#Name: As Férias do Pequeno Nicolau - BluRay  1080p               tmdb id 277368
+#Name: As Garotas da Tragédia.2018                                tmdb id 413857
+#Name: As Leis da Termodinamica 2018                              tmdb id 437029
+#Name: As Loucuras de Charlie - BluRay 1080p                      tmdb id 124461
+#Name: As Mulheres do 6º Andar - BluRay 1080p                     tmdb id 57243
+#Name: As Panteras - BluRay 1080p                                 tmdb id 4327
+#Name: As Tartarugas Ninja 2 (O Segredo do Ooze) - BluRay 1080p   tmdb id 1497
+#Name: As Tartarugas Ninja BluRay - 1080p                         tmdb id 98566
+#Name: As Vantagens de Ser Invisível - BluRay 1080p               tmdb id 84892
+#Name: As.Aventuras.de.Paddington.2.2018.1080p.BluRay             tmdb id 346648
+#Name: As Aventuras de Tadeo 2 O Segredo do Rei Midas.2018.BluRay tmdb id 452773
+#Name: As.Tribos.de.Palos.Verdes.2018.720p.BluRay                 tmdb id 324562
+#Name: Assassinato em 4 Atos - BluRay 1080p                       tmdb id 201759
+#Name: Assassinos de Aluguel - BluRay 1080p                       tmdb id 122800
+#Name: Assim na Terra como no Inferno - BluRay 1080p              tmdb id 256274
+#Name: Atividade Supernatural - BluRay 1080p                      tmdb id 127421
+#Name: Ato de Coragem - BluRay 1080p                              tmdb id 75674
+#Name: Atômica (Ameaça Oculta) (Deep Burial) - BluRay 1080p       tmdb id 188924
+#Name: Atos.de.Violencia.2018.1080p.BluRay                        tmdb id 479040
+#Name: Autodestruicao.2018                                        tmdb id 423988
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/956.mp4 #Name: Autodestruicao.2018.720p
+#Name: Avenida do Terror - BluRay 1080p                           tmdb id 73943
+#Name: Aventura.Perigosa.2018.1080p.BluRay                        tmdb id 423377
+#Name: Babá Diabólica 2018                                        tmdb id 451964
+#Name: Bad Ass 2 Ação em Dobro - BluRay 1080p                     tmdb id 255268
+#Name: Bajo.la.piel.de.lobo.2018                                  tmdb id 437380
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/962.mp4 #Name: Bajo.la.piel.de.lobo.2018.1080p                         
+#Name: Bala Perdida - BluRay 1080p                                tmdb id 294736
+#Name: Bangkok Nocaute - BluRay 1080p                             tmdb id 64205
+#Name: Barricada - BluRay 1080p                                   tmdb id 178194
+#Name: Batalhas 2018                                              tmdb id 513574
+#Name: Batman.Ninja.2018.BluRay.1080p                             tmdb id 485942
+#Name: Battleship – Batalha dos Mares  - BluRay 1080P             tmdb id 44833
+#Name: Battlestar Galactica Sangue & Chromo - BluRay 1080p        tmdb id 257368
+#Name: Be Cool - O Outro Nome do Jogo - Bluray 1080p              tmdb id 4551
+#Name: Beirut.2018.1080p                                          tmdb id 399248
+#Name: Bel Ami - O Sedutor - BluRay 1080p                         tmdb id 86467
+#Name: Beleza Adormecida - BluRay 1080P                           tmdb id 64586
+#Name: Bem-Vindo à Vida - BluRay 1080p                            tmdb id 98548
+#Name: Bem-vindo aos 40 - BluRay 1080p                            tmdb id 89492
+#Name: Benji.2018.1080p                                           tmdb id 495193
+#Name: Benzinho 2018                                              tmdb id 490039
+#Name: Bernie Quase um Anjo - BluRay 1080p                        tmdb id 92591
+#Name: Billy Stone e o Medalhão Mágico - BluRay 1080p             tmdb id 171759
+#Name: Bitch 2018 LIMITED                                         tmdb id 431867
+#Name: Black.Panther.2018.1080p.BluRay                            tmdb id 284054
+#Name: Blade Runner (O Caador de Androides) - BluRay 1080p        tmdb id 78
+#Name: Blood Brother 2018                                         tmdb id 552858
+#Name: Blue Jasmine - BluRay 1080p                                tmdb id 160588
+#Name: Boa noite mamãe - BluRay 1080p                             tmdb id 284303
+#Name: Bonnie e Clyde Uma Vida de Crime - BluRay 1080p            tmdb id 230938
+#Name: Bons Costumes - BluRay 1080p                               tmdb id 16899
+#Name: Bons pra Cachorro - BluRay 1080p                           tmdb id 187925
+#Name: Boone The Bounty Hunter                                    tmdb id 456781
+#Name: Borat - BluRay 1080p                                       tmdb id 496
+#Name: Boyhood Da Infância à Juventude - BluRay 1080p             tmdb id 85350
+#Name: Busca Alucinante - BluRay 1080p                            tmdb id 199420
+#Name: Busca Desesperada - BluRay 1080p                           tmdb id 121676
+#Name: Buscando 2018                                              tmdb id 489999
+#Name: Butter Deslizando na Trapaça - BluRay 1080p                tmdb id 79697
+#Name: Caça Aos Gângsteres BluRay 1080p                           tmdb id 82682
+#Name: Caçada ao Presidente - BluRay 1080p                        tmdb id 230179
+#Name: Caçador de Almas - BluRay 1080p                            tmdb id 46429
+#Name: Caçadores de Obras-Primas - BluRay 1080p                   tmdb id 152760
+#Name: Caçadores de Recompensa - BluRay 1080p                     tmdb id 209504
+#Name: Cada Um Tem a Gêmea Que Merece - BluRay 1080p              tmdb id 71880
+#Name: Calibre 2018                                               tmdb id 474051
+#Name: Cam 2018                                                   tmdb id 521935
+#Name: Campo Dos Sonhos - BluRay 1080p                            tmdb id 2323
+#Name: Candy.Jar.2018.1080p                                       tmdb id 507143
+#Name: Cão Vermelho - BluRay 1080p                                tmdb id 66125
+#Name: Capitão América 2 (O Soldado Invernal) - BluRay 1080p      tmdb id 100402
+#Name: Capitão Phillips - BluRay 1080p                            tmdb id 109424
+#Name: Carga Bruta 2018                                           tmdb id 393717
+#Name: Carrie A Estranha - BluRay 1080p                           tmdb id 133805
+#Name: Cassino - Bluray 1080p                                     tmdb id 524
+#Name: Castigados 2018                                            tmdb id 442266 
+#Name: Cavaleiros e Dragões - BluRay 1080p                        tmdb id 75507
+#Name: Cavalo de Guerra - Bluray 1080p                            tmdb id 57212
+#Name: CBGB - BluRay 1080p                                        tmdb id 111479
+#Name: Céu.em.Chamas.2018.BluRay.1080p                            tmdb id 427433
+#Name: Chamada de Emergência - BluRay 1080p                       tmdb id 158011
+#Name: Cheat the Hangman - Pistoleiros.2018.1080p                 tmdb id 538238
+#Name: Chef - BluRay 1080p                                        tmdb id 212778
+#Name: Chinatown - BluRay 1080p                                   tmdb id 829
+#Name: Cinema Verite - A Saga de uma Família Americana BluRay     tmdb id 64566
+#Name: Cinquenta.Tons.de.Liberdade.UNRATED.2018.1080p             tmdb id 337167
+#Name: Cinzas do Passado Redux – Bluray 1080p                     tmdb id 40751
+#Name: Circuito Fechado - BluRay 1080p                            tmdb id 146223
+#Name: Círculo de Fogo - BluRay 1080p                             tmdb id 68726
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1026.mkv #Name: Circulo.de.Fogo.A.Revolta.2018                                 
+#Name: Circulo.de.Fogo.A.Revolta.2018.1080p                       tmdb id 268896
+#Name: Clube da Luta - BluRay 1080p                               tmdb id 550
+#Name: Clube de Compras Dallas - BluRay 1080p                     tmdb id 152532
+#Name: Código de Conduta - BluRay 1080p                           tmdb id 22803
+#Name: Codinome Cassius 7 - BluRay 1080p                          tmdb id 73499
+#Name: Coincidências do Amor - BluRay 1080p                       tmdb id 41210
+#Name: Combatentes.da.Liberdade.Ray.2018                          tmdb id 539626
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1032.mp4 #Name: Come Sunday 2018                       alredy exist with portugues name  
+#Name: Como Agarrar Meu Ex Namorado - BluRay 1080p                tmdb id 54054
+#Name: Como um Chef - BluRay 1080p                                tmdb id 85872
+#Name: Company of Heroes - BluRay 1080p                           tmdb id 168676
+#Name: Complices.2018                                             tmdb id 507470
+#Name: Compramos Um Zoológico - BluRay 1080p                      tmdb id 201847
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1038.mp4 #Name: Compulsão Assassina - BluRay 1080p                              
+#Name: Condenação Máxima - BluRay 1080p                           tmdb id 118683
+#Name: Condorito.O.Filme.2018.1080p.WEB-DL.x264.DD5.1.DUAL        tmdb id 450314
+#Name: Condução Perigosa - BluRay 1080p                           tmdb id 256092
+#Name: Conexão Perigosa - BluRay 1080p                            tmdb id 115348
+#Name: Conflitos e reencontros - BluRay 1080p                     tmdb id 244260
+#Name: Conflitos.em.Familia.2017.720p                             tmdb id 419459
+#Name: Confronto Final - BluRay 1080p                             tmdb id 286668
+#Name: Confronto no Pavilhão 99 - BluRay 1080p                    tmdb id 398175
+#Name: Congelado - BluRay 1080p                                   tmdb id 243531
+#Name: Conspiração Americana - BluRay 1080p                       tmdb id 60309
+#Name: Constantine - BluRay 1080p                                 tmdb id 561 
+#Name: Constantine Cidade de Demonios 2018                        tmdb id 78081
+#Name: Contagem Regressiva - BluRay 1080p                         tmdb id 178
+#Name: Contagio - BluRay 1080p                                    tmdb id 39538
+#Name: Contato - BluRay 1080p                                     tmdb id 686
+#Name: Continue.Assistindo.2018.1080p.BluRay                      tmdb id 242606
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1055.mp4 #Name: Contra o Tempo - BluRay 1080p                              
+#Name: Contra o Tempo(Source Code) - Bluray 1080p                 tmdb id 50765
+#Name: Contrabando - BluRay 1080p                                 tmdb id 77866
+#Name: Cooties A Epidemia - BluRay 1080p                          tmdb id 241843
+#Name: Copenhagen - BluRay 1080p                                  tmdb id 251232
+#Name: Coracao de Cowboy 2018                                     tmdb id 541891
+#Name: Coração Louco - BluRay 1080p                               tmdb id 25196
+#Name: Corra Milkha Corra - BluRay 1080p                          tmdb id 206324
+#Name: Corra que a Polícia Vem Aí 33 13 - O Insulto Final  1080p  tmdb id 36593
+#Name: Correndo.Atras.de.um.Pai.2018.1080p.BluRay                 tmdb id 354861               
+#Name: Corrente do Mal - BluRay 1080p                             tmdb id 270303
+#Name: Corrida Mortal Anarquia 2018                               tmdb id 401478
+#Name: Corrida Selvagem 2017                                      tmdb id 430406
+#Name: Cortina Rasgada - BluRay 1080p                             tmdb id 5780
+#Name: Cosmópolis - BluRay 1080p                                  tmdb id 49014
+#Name: Costa Partida - BluRay 1080p                               tmdb id 254559
+#Name: Cover.Versions.2018.1080p                                  tmdb id 496245
+#Name: Cowboys e Aliens - BluRay 1080p                            tmdb id 49849
+#Name: Crimes Cruzados - BluRay 1080p                             tmdb id 165739 
+#Name: Cro Em Familia 2018                                        tmdb id 544946
+#Name: Cronicas de Natal 2018                                     tmdb id 527435
+#Name: Cubo - BluRay 1080p                                        tmdb id 431
+#Name: Da Magia à Sedução - BluRay 1080p                          tmdb id 6435
+#Name: Dançando No Escuro - BluRay 1080p                          tmdb id 16
+#Name: Darc.2018.1080p                                            tmdb id 521647
+#Name: Darkman 2 (O Retorno de Durant) - BluRay 1080p             tmdb id 18998
+#Name: Darkman 3 (Enfrentando a Morte) - BluRay 1080p             tmdb id 19002
+#Name: DC Super Hero Girls Lendas de Atlântida 2018               tmdb id 513730
+#Name: De Carona para o Amor 2018                                 tmdb id 458534
+#Name: De Ilusão Também Se Vive - BluRay 1080p                    tmdb id 11881
+#Name: De Repente Pai - BluRay 1080p                              tmdb id 146239
+#Name: De Volta a Ilha da Imaginação - BluRay 1080p               tmdb id 172386
+#Name: De Volta ao Terror - BluRay 1080p                          tmdb id 84907
+#Name: De.Encontro.com.a.Vida.2018                                tmdb id 379019
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1092.mp4 #Name: De.Encontro.com.a.Vida.2018.720p.BluRay                                
+#Name: De.Fora.para.Dentro.2017.1080p                             tmdb id 472805
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1096.mp4 #Name: Deadpool.2.2018                                                        
+#Name: Deadpool.2.2018.1080p                                      tmdb id 383498
+#Name: Dear.Dictator.2017.1080p.BluRay                            tmdb id 418667
+#Name: Debi & Lóide (Dois Idiotas em Apuros) - BluRay 1080p       tmdb id 8467
+#Name: Debi & Lóide 2 - BluRay 1080p                              tmdb id 100042
+#Name: Decisões Extremas - BluRay 1080p                           tmdb id 27569
+#Name: Déjà Vu - Bluray 1080p                                     tmdb id 7551
+#Name: Delirios do Passado 2018                                   tmdb id 340601
+#Name: Demônios 2018                                              tmdb id 552858
+#Name: Den of Thieves.2018.1080p.BluRay                           tmdb id 449443
+#Name: Departamento Q (Guardiões das Causas Perdidas) -           tmdb id 196024
+#Name: Depois da Terra - BluRay 1080p                             tmdb id 82700
+#Name: Desastre - BluRay 1080p                                    tmdb id 479475
+#Name: Desbravadores - BluRay 1080p                               tmdb id 1534
+#Name: Desejo.de.Matar.2018                                       tmdb id 395990
+#Name: Desejo.de.Matar.2018.1080p                                 tmdb id 395990
+#Name: Desprotegido - BluRay 1080p    !                           tmdb id 277685
+#Name: Detenção do Mal - BluRay 1080p                             tmdb id 69015
+#Name: Deu a Louca em Hollywood - BluRay 1080p                    tmdb id 9760
+#Name: Deu a Louca Nos Nazis - BluRay 1080p                       tmdb id 10679
+#Name: Deus da Carnificina - BluRay 1080p                         tmdb id 72113
+#Name: Deus Não Está Morto - BluRay 1080p                         tmdb id 249660
+#Name: Deus Nao Esta Morto Uma Luz na Escuridao 2018              tmdb id 454286
+#Name: Devil in the Dark 2018                                     tmdb id 438734
+#Name: Dezesseis Lua - BluRay 1080p                               tmdb id 109491
+#Name: Dia de Trabalho Mortal - BluRay 1080p                      tmdb id 341006
+#Name: Dia.dos.Mortos.2018.1080p.BluRay                           tmdb id 485415
+ #Name: Diana - BluRay 1080p                                      tmdb id 118289
+#Name: Diário de um Adolescente - BluRay 1080p                    tmdb id 10474
+#Name: Dick Tracy - BluRay 1080p                                  tmdb id 8592
+#Name: Difícil de Matar - BluRay 1080p                            tmdb id 9569
+#Name: Dinheiro Sujo -Bluray 1080p                                tmdb id 210047
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1126.mp4 #Name: Disturbio.2018.1080p                                         
+#Name: Disturbio.2018.1080p.BluRay.x264-DRONES.DUAL-MED           tmdb id 467660
+#Name: Django Livre - BluRay 1080p                                tmdb id 68718
+#Name: Do Além - BluRay 1080p                                     tmdb id 87293
+#Name: Do Jeito Que Elas Querem 2018                              tmdb id 502682
+#Name: Do.Fundo.do.Mar.2.2018                                     tmdb id 492336
+#Name: Doce Tentação - BluRay 1080p                               tmdb id 94901
+#Name: Doce Vingança 2 - BluRay 1080p                             tmdb id 207768
+#Name: Doce Virginia 2018                                         tmdb id 413992
+#Name: Dois Homens Contra Uma Cidade - BluRay 1080p               tmdb id 254772
+#Name: Dormindo com o Inimigo - Bluray 1080p                      tmdb id 7442
+#Name: Dose Dupla - BluRay 1080p                                  tmdb id 62046
+#Name: Dr. Dolittle - BluRay 1080p                                tmdb id 3050
+#Name: Drácula – O Príncipe das Trevas - BluRay 1080p             tmdb id 218266
+#Name: Drácula de Bram Stoker - BluRay 1080p                      tmdb id 6114
+#Name: Dragão (A História de Bruce Lee) - BluRay 1080p            tmdb id 10423
+#Name: Drive - BluRay 1080p                                       tmdb id 64690
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1144.mp4 #Name: Duck.Butter.2018.1080p                                       
+#Name: Duck.Butter.2018.1080p.NF.WEB-DL.DD5.1.H.264-SiGMA.DUAL    tmdb id 499319
+#Name: Duck.Duck.Goose.2018.1080p                                 tmdb id 375107
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1147.mp4 #Name: Duda.e.os.Gnomos.2017                                        
+#Name: Duda.e.os.Gnomos.2017.1080p                                tmdb id 466876
+#Name: Dude_.A.Vida.e.Assim.1080p                                 tmdb id 399131
+#Name: Duelo de Gigantes - BluRay 1080p                           tmdb id 42252
+#Name: Dupla em Fúria - BluRay 1080p                              tmdb id 202220
+#Name: Dupla Explosiva - BluRay 1080p                             tmdb id 10550
+#Name: E Agora Repeti em Ciências - BluRay 1080p                  tmdb id 119457
+#Name: E Pluribus Unum O Sonho Americano 2018                     tmdb id 561230
+#Name: E.T. (O Extraterrestre) - BluRay 1080p                     tmdb id 601
+#Name: Educação Siberiana - BluRay 1080p                          tmdb id 171337
+#Name: Edward Mãos de Tesoura - BluRay 1080p                      tmdb id 162
+#Name: Ela - BluRay  1080p                                        tmdb id 152601
+#Name: Ela Dança, Eu Danço 4 - BluRay 1080p                       tmdb id 85446
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1161.mp4 #Name: Ela.e.John.2018.1080p                                     
+#Name: Ela.e.John.2018.1080p.BluRay.x264.thker.DUAL-OLD           tmdb id 449749
+#Name: Elefante Branco - BluRay 1080p                             tmdb id 57585
+#Name: Elektra - BluRay 1080p                                     tmdb id 9947
+#Name: Elysium - BluRay 1080p                                     tmdb id 68724
+#Name: Em Busca de um Lar - BluRay 1080p                          tmdb id 232175
+#Name: Em Busca de Vingança - BluRay 1080p                        tmdb id 327833
+#Name: Em Nome do Rei 2 Dois Mundos - BluRay 1080p                tmdb id 80410 
+#Name: Em Nome do Rei 3 - BluRay 1080p                            tmdb id 252360
+#Name: Em Transe - BluRay 1080p                                   tmdb id 68727
+#Name: Em.Busca.da.Liberdade.2018                                 tmdb id 47562
+#Name: Emboscada - BluRay 1080p                                   tmdb id 216541
+#Name: Empire State - BluRay 1080p                                tmdb id 169209
+#Name: Encontro Maligno - BluRay 1080p                            tmdb id 94204
+#Name: Encontro Marcado - BluRay 1080p                            tmdb id 259954
+#Name: Encruzilhada - BluRay 1080p                                tmdb id 158426
+#Name: Encurralado - Bluray 1080p                                 tmdb id 13250
+#Name: Ender’s Game – O Jogo do Exterminador - BluRay 1080p       tmdb id 80274
+#Name: Enquanto Somos Jovens - BluRay 1080p                       tmdb id 252512
+#Name: Entre Amigas - BluRay 1080p                                tmdb id 226363 
+#Name: Entre.Sombras.2018.1080p                                   tmdb id 417643
+#Name: Entrevista com Hitman - BluRay 1080p                       tmdb id 118737
+#Name: Entrevista com o Vampiro - BluRay 1080p                    tmdb id 628
+#Name: Equipe Caça Fantasma - BluRay 1080p                        tmdb id 159638
+#Name: Era uma Vez em Nova York - BluRay 1080p                    tmdb id 152599
+#Name: Era uma vez um Casamento 2017                              tmdb id 488113
+#Name: Erros do Corpo Humano - BluRay 1080p                       tmdb id 121565
+#Name: Escobar A Traicao 2017                                     tmdb id 425336
+#Name: Escola para Garotas Bonitas e Piradas - BluRay 1080p       tmdb id 10748
+#Name: Escrevendo Uma Nova Vida - BluRay 1080p                    tmdb id 141418
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1190.mp4 #Name: Espelho, Espelho Meu - BluRay 1080p                         
+#Name: Espelho, Espelho Meu - BluRay 1080p_2                      tmdb id 62764
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1192.mp4 #Name: Esperar para Sempre - BluRay 1080p                          
+#Name: Esperar para Sempre - BluRay 1080p_2                       tmdb id 52338
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1195.mp4 #Name: Esquadrão Sem Limites - BluRay 1080p                        
+#Name: Esquadrão Sem Limites - BluRay 1080p_2                     tmdb id 116613
+#Name: Esquadrao.Suicida.Acerto.de.Contas.2018.1080p.BluRay       tmdb id 487242
+#Name: Esquentando a Relação - BluRay 1080p                       tmdb id 128136
+#Name: Este é o Meu Garoto - BluRay 1080p                         tmdb id 87428
+#Name: Estrelas.de.Cinema.Nunca.Morrem.2018                       tmdb id 398174
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1199.mkv #Name: Estrelas.de.Cinema.Nunca.Morrem.2018.720p                  
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1201.mp4 #Name: Eu Sei Onde Voc  Mora.Zhuo mi cang.2017                     
+#Name: Eu Sei Onde Você Mora.Zhuo mi cang.2017.1080p              tmdb id 416306
+#Name: Eu Sou Ali (A História de Muhammad Ali) - BluRay 1080p     tmdb id 293262
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1204.mp4 #Name: Eu Sou o Número Quatro - BluRay 1080p                       
+#Name: Eu Sou o Número Quatro - BluRay 1080p_2                    tmdb id 46529
+#Name: Eu, Mamãe e os Meninos - BluRay 1080p                      tmdb id 190880
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1207.mp4 #Name: Eu.Aceito.At_.Desistir.2018                                 
+#Name: Eu.Aceito.Até.Desistir.2018.1080p                          tmdb id 395474
+#Name: Eu.Nao.Sou.Um.Homem.Facil.2018.1080p                       tmdb id 515841
+#Name: Eu.So.Posso.Imaginar.2018                                  tmdb id 470878
+#Name: Eu.Tonya.2017.1080p.BluRay                                 tmdb id 389015
+#Name: Europa (A Trajetória de Worricker) - BluRay 1080p          tmdb id 260339
+#Name: Everly - BluRay 1080p                                      tmdb id 277355
+#Name: Evocando Espíritos 2 - BluRay 1080p                        tmdb id 150202
+#Name: Excalibur - BluRay 1080p                                   tmdb id 11527
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1216.mp4 #Name: Exorcista (O Início) - BluRay 1080p                       
+#Name: Exorcista (O Início) - BluRay 1080p_2                      tmdb id 11026
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1219.mkv #Name: Extinction.2018                                           
+#Name: Extinction.2018.1080p                                      tmdb id 429415
+#Name: Extra! Extra! - BluRay 1080p                               tmdb id 15300
+#Name: Facção Vermelha - BluRay 1080p                             tmdb id 65945
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1222.mp4 #Name: Facção Vermelha - BluRay 1080p_2                        
+#Name: Fahrenheit.451.2018.1080p                                  tmdb id 401905
+#Name: Família do Bagulho - BluRay 1080p                          tmdb id 138832
+#Name: Fantastic Beasts The Crimes of Grindelwald 2018(Cine)      tmdb id 338952
+#Name: Father.of.the.Year.2018                                    tmdb id 531949
+#Name: Férias da Família Johnson - BluRay 1080p                   tmdb id 19084
+#Name: Festim Diabólico - BluRay 1080p                            tmdb id 1580
+#Name: Filha do Mal - BluRay 1080p                                tmdb id 76487
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1229.mp4 #Name: Filha do Mal - BluRay 1080p_2                          
+#Name: Filho De Caim - BluRay 1080p                               tmdb id 161823
+#Name: Filhos do Divórcio - BluRay 1080p                          tmdb id 115283
+#Name: Filth - BluRay 1080p                                       tmdb id 85889
+#Name: Finalmente 18 - BluRay 1080p                               tmdb id 107811
+#Name: Flash Gordon - BluRay 1080p                                tmdb id 3604
+#Name: Flashdance – Em Ritmo de Embalo - BluRay 1080p             tmdb id 535
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1236.mp4 #Name: Flores do Oriente - BluRay 1080p                        
+#Name: Flores do Oriente - BluRay 1080p_2                         tmdb id 76758
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1238.mp4 #Name: Footloose - BluRay 1080p                               
+#Name: Footloose - BluRay 1080p_2                                 tmdb id 68817
+#Name: Footnote - BluRay 1080p                                    tmdb id 72551
+#Name: Fora de Alcance - BluRay 1080p                             tmdb id 36272
+#Name: Força G - BluRay 1080p                                     tmdb id 19585
+#Name: Força para Viver - BluRay 1080p                            tmdb id 244403
+#Name: Força Sinistra - BluRay 1080p                              tmdb id 11954
+#Name: Frank e o Robô - BluRay 1080p                              tmdb id 84329
+#Name: Frankenstein – Entre Anjos e Demônios BluRay 1080p         tmdb id 100241
+#Name: From.Straight.As.to.XXX.2017.720p                          tmdb id 441168
+#Name: Frontera - BluRay 1080p                                    tmdb id 259611
+#Name: Fruitvale Station – A Última Parada - BluRay 1080p         tmdb id 157354
+#Name: Fuga - BluRay 1080p                                        tmdb id 136080
+#Name: Fullmetal.Alchemist.2017.JAPANESE.1080p.BluRay             tmdb id 426285
+#Name: Fúria de Titãs 2 - BluRay 1080p                            tmdb id 57165
+#Name: Fúria em Duas Rodas - BluRay 1080p                         tmdb id 10718
+#Name: G.I. Joe 2 Retaliação - BluRay 1080p                       tmdb id 72559
+#Name: Gangues do Brooklin - BluRay 1080p                         tmdb id 28791
+#Name: Garota Exemplar - BluRay 1080p                             tmdb id 210577
+#Name: Garotas Selvagens (Sem Cortes) - BluRay 1080p              tmdb id 617
+#Name: Garoto Prodígio - BluRay 1080p                             tmdb id 80188
+#Name: Garotos de Lugar Nenhum O Livro das Sombras                tmdb id 369406
+#Name: Gaten Ragnarok - BluRay 1080p                              tmdb id 140818
+#Name: Gente Grande 2 - BluRay 1080p                              tmdb id 109418
+#Name: George, o Rei da Floresta - BluRay 1080p                   tmdb id 10603
+#Name: Gigantes de Aço - BluRay 1080p                             tmdb id 39254
+#Name: Gigantes do Rock - BluRay 1080p                            tmdb id 202262
+#Name: Gladiador (Versão Estendida) - BluRay 1080p                tmdb id 98
+#Name: Godzilla - BluRay 1080p                                    tmdb id 124905
+#Name: Going For Gold 1080p                                       tmdb id 506951
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1270.mp4 #Name: Going For Gold 2018                                     
+#Name: Golpe de Mestre - Bluray 1080p                             tmdb id 9277
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1272.mp4 #Name: Good Time.20018.1080p                                   
+#Name: Good Time.20018.WEB-DL.1080p.H264.Dual-L@L                 tmdb id 429200
+#Name: Goosebumps 2 Haunted Halloween 2018(Cine coreia)           tmdb id 442062
+#Name: Grand Central - BluRay 1080p                               tmdb id 186991
+#Name: Grande Demais para Quebrar - BluRay 1080p                  tmdb id 65034             
+#Name: Grande Demais para Quebrar - BluRay 1080p_2                tmdb id 65034
+#Name: Gravidade - BluRay 1080p                                   tmdb id 49047
+#Name: Grease (Nos Tempos da Brilhantina) - BluRay 1080p          tmdb id 621
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1281.mp4 #Name: Gringo.Vivo.ou.Morto.2018                               
+#Name: Gringo.Vivo.ou.Morto.2018.1080p                            tmdb id 340022
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1284.mp4 #Name: Gritos do Além - BluRay 1080p                           
+#Name: Gritos do Além - BluRay 1080p_2                            tmdb id 60950
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1282.mp4 #Name: Gritos Mortais - BluRay 1080P                          
+#Name: Gritos Mortais - BluRay 1080P_2                            tmdb id 14001
+#Name: Guardiões da Galáxia - BluRay 1080p                        tmdb id 118340
+#Name: Guardiões do Céu - BluRay 1080p                            tmdb id 239318
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1289.mp4 #Name: Guerra dos Mundos - Bluray 1080p                      
+#Name: Guerra dos Mundos - Bluray 1080p_2                         tmdb id 74                   
+#Name: Guerra é Guerra! - BluRay 1080p                            tmdb id 59962
+#Name: Guerra Mundial Z - Versão Estendida - BluRay 1080p         tmdb id 336002
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1293.mp4 #Name: Guerreiro.da.Escuridao.2018.1080p                      
+#Name: Guerreiro.da.Escuridao.2018.1080p.BluRay                   tmdb id 425298                       
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1294.mp4 #Name: Guerreiro.da.Escuridao.2018.720p.BluRay.x264.DUAL       
+#Name: Gun City 2018                                              tmdb id 529210
+#Name: Gun.Shy.2017.1080p.BluRay                                  tmdb id 430682
+#Name: Habemus Papam - BluRay 1080p                               tmdb id 61667
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1298.mp4 #Name: Habemus Papam - BluRay 1080p_2
+#Name: Hackers (Piratas de Computador) - BluRay 1080p             tmdb id 10428
+#Name: Halloween – O Início - BluRay 1080p                        tmdb id 2082
+#Name: Halloween A Lenda de Jack 2018                             tmdb id 550412
+#Name: Halo 4 Em Direção ao Amanhecer - BluRay 1080p              tmdb id 56295
+#Name: Han.Solo.2018                                              tmdb id 348350
+#Name: HeadHunters - BluRay 1080p                                 tmdb id 70670
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1305.mp4 #Name: HeadHunters - BluRay 1080p_2
+#Name: Hércules - BluRay 1080p                                    tmdb id 2567
+#Name: Hercules (Reborn) - BluRay 1080p                           tmdb id 277594
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1336.mp4 #Name: Hércules (Versão Estendida) - BluRay 1080p
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1307.mp4 #Name: Hercules BluRay 1080p
+#Name: Hereditario 2018                                           tmdb id 493922
+#Name: Heroina(s).2017.1080p                                      tmdb id 475345
+#Name: Heróis de Ressaca - BluRay 1080p                           tmdb id 107985
+#Name: Heróis do Oriente - BluRay 1080p                           tmdb id 40980
+#Name: Heróis Fora de Controle - BluRay 1080p                     tmdb id 51245
+#Name: Hirokin - O Último Samurai - BluRay 1080p                  tmdb id 616
+#Name: Histórias de Amor - BluRay 1080p                           tmdb id 84306
+#Name: Histórias de Fantasmas - BluRay 1080p                      tmdb id 429417
+#Name: Hitchcock - BluRay 1080p                                   tmdb id 112336
+#Name: Homem de Ferro 2 - BluRay 1080p                            tmdb id 10138
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1319.mp4 #Name: Homem de Ferro 2 - BluRay 1080p_2
+#Name: Homem de Ferro 3 - BluRay 1080p                            tmdb id 68721
+#Name: Homem Formiga e a Vespa 2018                               tmdb id 363088
+#Name: Homem.ao.Mar.2018                                          tmdb id 454619
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1321.mkv #Name: Homem.ao.Mar.2018.1080p
+#Name: Homens de Preto - BluRay 1080p                             tmdb id 607
+#Name: Homens de Preto 2 - BluRay 1080p                           tmdb id 608
+#Name: Honey 4 No Pulsar do Ritmo 2018                            tmdb id 515114
+#Name: Hop (Rebeldes sem Páscoa) - BluRay 1080p                   tmdb id 50359
+#Name: Horas de Medo - BluRay 1080p                               tmdb id 48393
+#Name: Hostiles                                                   tmdb id 336821
+#Name: Hotel Artemis 2018                                         tmdb id 406761
+#Name: Hotel da Morte - BluRay 1080p                              tmdb id 58428
+#Name: Hotel Transilvania 3 2018                                  tmdb id 400155
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1333.mkv #Name: How.It.Ends.2018
+#Name: How.It.Ends.2018.1080p                                     tmdb id 475210
+#Name: Hulk - BluRay 1080p                                        tmdb id 1927
+#Name: Hurricane - O Furacão - Bluray 1080p                       tmdb id 10400 
+#Name: I Remember You.2018.Bluray                                 tmdb id 423236
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1338.mkv #Name: I Remember You.2018.Bluray.1080p
+#Name: I Still See You 2018 LiMiTED                               tmdb id 448095
+#Name: Ibiza.2018                                                 tmdb id 463053
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1341.mkv #Name: Ibiza.2018.1080p
+#Name: Iceman - BluRay 1080p                                      tmdb id 105001
+#Name: Idênticos - BluRay 1080p                                   tmdb id 279914
+#Name: Identidade - BluRay 1080p                                  tmdb id 2832
+#Name: Identidade Especial - BluRay 1080p                         tmdb id 222216
+#Name: Identidade Trocada - BluRay 1080p                          tmdb id 69225
+#Name: Ilha.dos.Cachorros.2018                                    tmdb id 399174
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1348.mkv #Name: Ilha.dos.Cachorros.2018.1080p
+#Name: Illang A Brigada Lobo 2018                                 tmdb id 467824
+#Name: Imortais - BluRay 1080p                                    tmdb id 37958
+#Name: Impacto Profundo - BluRay 1080p                            tmdb id 8656
+#Name: In.the.Cloud.2018                                          tmdb id 503517
+#Name: In.the.Fade.2017.1080p.BluRay                              tmdb id 423646
+#Name: Inatividade Paranormal 2 - BluRay 1080p                    tmdb id 184345
+#Name: Indomável Sonhadora - BluRay 1080p                         tmdb id 84175
+#Name: Infectado - BluRay 1080p                                   tmdb id 210947
+#Name: Inferno na Ilha - BluRay 1080p                             tmdb id 73211
+#Name: Inferno no Faroeste 2 - BluRay 1080p                       tmdb id 473165
+#Name: ingrid.goes.west.2017.1080p.bluray                         tmdb id 411741
+#Name: Inimigo do Estado - BluRay 1080p                           tmdb id 9798
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1362.mp4 #Name: Inimigo do Estado - BluRay 1080p_2
+#Name: Inimigo Mortal 2018                                        tmdb id 460648
+#Name: Insensíveis - BluRay 1080p                                 tmdb id 123362
+#Name: Inseparáveis - BluRay 1080p                                tmdb id 217412
+#Name: Instinto (Selvagem Versão do Diretor) - BluRay 1080p       tmdb id 12117
+#Name: Intercâmbio de Casais - BluRay 1080p                       tmdb id 65762
+#Name: Intocáveis - BluRay 1080p                                  tmdb id 77338
+#Name: Invasão à Casa Branca - BluRay 1080p                       tmdb id 117263
+#Name: Invasores (Nenhum Sistema Está à Salvo) - BluRay 1080p     tmdb id 284427
+#Name: Invencível - BluRay 1080p                                  tmdb id 227306
+#Name: Invocação do Mal - BluRay 1080p                            tmdb id 138843
+#Name: Ip Man A Batalha Final - BluRay 1080p                      tmdb id 182127
+#Name: Jack Frost - BluRay 1080p                                  tmdb id 27318
+#Name: Jack Reacher - O Último Tiro - BluRay 1080p                tmdb id 75780
+#Name: Jackass Apresenta Vovô Sem Vergonha – Sem Cortes - BluRay  tmdb id 273641
+#Name: Jake Grandão - BluRay 1080p                                tmdb id 21717
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1379.mkv #Name: Jeepers.Creepers.3.2017
+#Name: Jeepers.Creepers.3.2017.1080p                              tmdb id 55341
+#Name: Jeff Who Lives at Home - BluRay 1080p                      tmdb id 82532
+#Name: JFK A História Não Contada - BluRay 1080p                  tmdb id 209262
+#Name: João e Maria Caçadores de Bruxas - Estendida - BluRay      tmdb id 60304
+#Name: João e Maria e a Bruxa da Floresta Negra - BluRay 1080p    tmdb id 165864
+#Name: Jobs - BluRay 1080p                                        tmdb id 115782
+#Name: Joe - BluRay 1080p                                         tmdb id 157847
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1385.mkv #Name: Jogador.N°.1.2018
+#Name: Jogador.N°.1.2018.1080p                                    tmdb id 333339
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1383.mp4 #Name: Jogador.N°.1.2018.1080p.BluRay-SPARKS.DUAL-GUR
+#Name: Jogo da Morte (Gutshot Straight) - BluRay 1080p            tmdb id 297702
+#Name: Jogo Sujo - BluRay 1080p                                   tmdb id 256687
+#Name: Jogos de Interesses - BluRay 1080p                         tmdb id 157919
+#Name: Jogos do Poder - BluRay 1080p                              tmdb id 53389
+#Name: Jogos Vorazes Em Chamas - BluRay 1080p                     tmdb id 101299
+#Name: Jogos.Mortais.2017.1080p-GECKOS.DUAL                       tmdb id 176
+#Name: John Carter Entre Dois Mundos - BluRay 1080p               tmdb id 49529
+#Name: John Morre no Final - BluRay 1080p                         tmdb id 75761
+#Name: Julieta                                                    tmdb id 332872
+#Name: Jumanji - BluRay 1080P                                     tmdb id 8844
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1399.mkv #Name: Jumanji.Bem.Vindo.a.Selva.2018
+#Name: Jumanji.Bem.Vindo.a.Selva.2018.1080p                       tmdb id 353486
+#Name: Juntos e Misturados - BluRay 1080p                         tmdb id 232672
+#Name: Jurassic World Reino Ameacado 2018                         tmdb id 351286
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1402.mkv #Name: Jurassic.World.Reino.Ameaçado.2018
+#Name: Juventude em Fúria - BluRay 1080p                          tmdb id 44835
+#Name: Kick-Ass 2 - BluRay 1080p                                  tmdb id 59859
+#Name: Kickboxer A Retaliacao 2018                                tmdb id 447665
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1406.mp4 #Name: Kickboxer.A.Retaliacao.2018.1080p.BluRay              
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1408.mp4 #Name: Kill.Switch.2017.BluRay                              
+#Name: Kill.Switch.2017.BluRay.1080p                              tmdb id 423988
+#Name: Kin 2018                                                   tmdb id 425505
+#Name: kung Fu do Macaco Louco - BluRay 1080p                     tmdb id 46736
+#Name: Kung Fu Yoga 2018                                          tmdb id 383785
+#Name: La Tribu 2018                                              tmdb id 504345 
+#Name: Labirinto do Tempo - BluRay 1080p                          tmdb id 71700
+#Name: Lady.Bird.2017.1080p.BluRay                                tmdb id 391713
+#Name: Lanterna Verde – BluRay 1080p                              tmdb id 44912
+#Name: Lara Croft Tomb Raider - BluRay 1080p                      tmdb id 1995
+#Name: Laranja Mecânica - BluRay 1080p                            tmdb id 185
+#Name: Las.Leyes.de.la.Termodinamica.2018                         tmdb id 437029
+#Name: LBJ - A Esperança De Uma Nação. 2017                       tmdb id 353575
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1422.mp4 #Name: Le.manoir.2017                                        
+#Name: Le.manoir.2017.1080p                                       tmdb id 437739
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1412.mp4 #Name: LEGO DC Comics Super Heróis Aqua.2018                 
+#Name: LEGO DC Comics Super Heróis_ Aqua.2018                     tmdb id 513736
+#Name: Lego.DC.Comics.Super.Herois.O.Flash.2018.1080p.BluRay      tmdb id 504997
+#Name: Lego.DC.Super.Hero Girls.Escola.de.Super.Vilãs.2018        tmdb id 506734
+#Name: Lendas da Paixão - BluRay 1080p                            tmdb id 4476
+#Name: Leo Da Vinci- Missão Mona Lisa 2018                        tmdb id 486072
+#Name: Leprechaun Returns 2019                                    tmdb id 518158
+#Name: Let.There.Be.Light.2018                                    tmdb id 480881
+#Name: Levantando.Poeira.2018.1080p                               tmdb id 480823
+#Name: Libertos O Preço da Vida 2018                              tmdb id 560966
+#Name: Lições em Família - BluRay 1080p                           tmdb id 231576
+#Name: Liga.da.Justica                                            tmdb id 141052
+#Name: Ligados Pelo Amor - BluRay 1080p                           tmdb id 111969
+#Name: Ligados Pelo Crime - BluRay 1080p                          tmdb id 13641
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1435.mp4 #Name: Like.Father.2018                                       
+#Name: Like.Father.2018.1080p                                     tmdb id 518452
+#Name: Lincoln - BluRay 1080p                                     tmdb id 72976
+#Name: Linha de Ação - BluRay 1080p                               tmdb id 98357
+#Name: Linha de Frente - BluRay 1080p                             tmdb id 204082
+#Name: Linha do Tempo - BluRay 1080p                              tmdb id 69155
+#Name: Listening - BluRay 1080p                                   tmdb id 331592
+#Name: Livre.mas impedido.2018                                    tmdb id 506407
+#Name: Lobo Guerreiro 2-2018 LIMITED                              tmdb id 452557
+#Name: Locke - BluRay 1080p                                       tmdb id 210479
+#Name: Die unendliche Geschichte                                  tmdb id 34584	
+#Name: Looney Tunes (De Volta à Ação) - BluRay 1080p              tmdb id 10715
+#Name: Looper Assassinos do Futuro - BluRay 1080p                 tmdb id 59967
+#Name: Loucamente Apaixonados - BluRay 1080p                      tmdb id 60420
+#Name: Loucos Por Dinheiro - BluRay 1080p                         tmdb id 127867
+#Name: Loucuras no Paraíso - BluRay 1080p                         tmdb id 50647
+#Name: Lua Cheia o terror dos virgens - BluRay 1080p              tmdb id 142591
+#Name: Lua Negra (O Super Carro) - BluRay 1080p                   tmdb id 36349
+#Name: Lucy - BluRay 1080p                                        tmdb id 240832
+#Name: Luzes do Além - BluRay 1080p                               tmdb id 7006
+#Name: Mac & Devin Go to High School - BluRay 1080p               tmdb id 104859
+#Name: Machete Kills - BluRay 1080p                               tmdb id 106747
+#Name: Magia ao Luar - BluRay 1080p                               tmdb id 229297
+#Name: Magic Mike - BluRay 1080p                                  tmdb id 77930
+#Name: Maldita Aranha Gigante! - BluRay 1080p                     tmdb id 166822
+#Name: Malevola - BluRay 1080p                                    tmdb id 102651
+#Name: Maluca Paixão - BluRay 1080p                               tmdb id 23706
+#Name: Mamãe é de Morte - BluRay 1080p                            tmdb id 23706
+#Name: Mamãe Operação Balada - BluRay 1080p                       tmdb id 252680
+#Name: Mamma Mia La Vamos Nos de Novo 2018                        tmdb id 458423
+#Name: Mandando Bala - BluRay 1080p                               tmdb id 4141
+#Name: Mandela (O Caminho para a Liberdade) - BluRay 1080p        tmdb id 192136
+#Name: Mar de Fogo - BluRay 1080p                                 tmdb id 2023
+#Name: Marcado - BluRay 1080p                                     tmdb id 112090
+#Name: Maré Negra - BluRay 1080p                                  tmdb id 59963
+#Name: Mare Nostrum 2018                                          tmdb id 551306
+#Name: Maria.Madalena.2018                                        tmdb id 407439
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1470.mp4 #Name: Maria.Madalena.2018.1080p                                          
+#Name: Martelo Dos Deuses - BluRay 1080p                          tmdb id 192538
+#Name: Mary e a Flor da Feiticeira 2018                           tmdb id 430447
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1473.mp4 #Name: Mary Magdalene (2018) 1080p                                        
+#Name: Mary Shelley                                               tmdb id 332283
+#Name: Massacre.no.Texas.2018.1080p.BluRay                        tmdb id 300665
+#Name: Matador de Aluguel - BluRay 1080p                          tmdb id 73567
+#Name: Matemática do Amor - BluRay 1080p                          tmdb id 59435
+#Name: Matinee (Uma Sessão Muito Louca) - BluRay 1080p            tmdb id 25389
+#Name: Maverick - BluRay 1080p                                    tmdb id 9359
+#Name: Maze Runner (Correr ou Morrer) - BluRay 1080p              tmdb id 198663
+#Name: Maze Runner The Death Cure 2018 1080p BluRay               tmdb id 336843
+#Name: Mazinger.Z.Infinito.2018                                   tmdb id 452970
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1486.mp4 #Name: Medidas.Desesperadas.2018.1080p                                    
+#Name: Medidas.Desesperadas.2018.1080p.BluRay x264.DUAL-GORDON    tmdb id 9458
+#Name: Megan.Leavey.2018.720p.BluRay                              tmdb id 424488
+#Name: Megatubarao.2018                                           tmdb id 345940
+#Name: Menashe.2018                                               tmdb id 428584
+#Name: Mensagem Para Você - BluRay 1080p                          tmdb id 9489
+#Name: Mentes Sombrias 2018                                       tmdb id 445651
+#Name: Mercenario 2018                                            tmdb id 459957
+#Name: Meu Bebê é o Diabo - BluRay 1080p                          tmdb id 159092
+#Name: Meu Ex e um Espiao 2018                                    tmdb id 454992
+#Name: Meu Nome é Ninguém - BluRay 1080p                          tmdb id 9474
+ #Name: Meu Ofício é Matar - BluRay 1080p                         tmdb id 217896
+#Name: Meu Romance Perfeito 2018                                  tmdb id 503403
+#Name: Meu.Amigo.Vampiro.2018.1080p.BluRay                        tmdb id 442056
+#Name: Meu.Irm_o.Bruce.Lee.(Bruce.Lee.O.Filme).(2010)             tmdb id 53807
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1501.mkv #Name: Meu.Irmão.Bruce.Lee.(Bruce.Lee.O.Filme).(2010)                     tmdb id
+#Name: Meus Dias Incríveis - BluRay 1080p                         tmdb id 126341
+#Name: Mil Coisas que Faria por Você 2018                         tmdb id 459166
+#Name: Millennium 3 A Rainha do Castelo de Ar - BluRay 1080p      tmdb id 33613
+#Name: Millennium Os Homens que Não Amavam as Mulheres - BluRay   tmdb id 15472
+#Name: Mimic.Não.Confie.nas.Vozes.2018.1080p.BluRay               tmdb id 437108
+#Name: Mina Abandonada - BluRay 1080p                             tmdb id 190899
+#Name: Minha Mãe é Uma Viagem - BluRay 1080p                      tmdb id 82687
+#Name: Minha Vida Dava um Filme - BluRay 1080p                    tmdb id 72890
+#Name: Minority Report (A Nova Lei) - BluRay 1080p                tmdb id 180
+#Name: Missao Catmandu As Aventuras de Nelly e Simon 2017         tmdb id 490694
+#Name: Missão Impossível 4 Protocolo Fantasma - BluRay 1080p      tmdb id 56292
+#Name: Missao Impossivel Efeito Fallout 2018                      tmdb id 353081
+#Name: Mister Bean (O Filme) - BluRay 1080p                       tmdb id 1281
+#Name: Mistério Acredite ou Morra - BluRay 1080p                  tmdb id 77494
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1517.mp4 #Name: Mogli Entre dois Mundos                                            tmdb id 
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1518.mp4 #Name: Monster (Desejo Assassino) - BluRay 1080p                          tmdb id 
+#Name: Monstro da Lagoa Negra - BluRay 1080p                      tmdb id 10973
+#Name: Mortal Kombat - BluRay 1080p                               tmdb id 9312
+#Name: Motoqueiro Fantasma 2 Espírito de Vingança - BluRay 1080p  tmdb id 71676
+#Name: Mudbound.2018.1080p                                        tmdb id 414425
+#Name: Mulheres ao Ataque - BluRay 1080p                          tmdb id 193610
+#Name: Mundos Opostos - BluRay 1080p                              tmdb id 58244
+#Name: Muppets (O Filme) - BluRay 1080p                           tmdb id 11176
+#Name: Muppets 2 (Procurados e Amados) - BluRay 1080p             tmdb id 145220
+#Name: My Dinner with Herve 2018                                  tmdb id 463158
+#Name: Na Mira do Atirador - BluRay 1080p                         tmdb id 405775
+#Name: Na Trilha da Vingança - BluRay 1080p                       tmdb id 150229
+#Name: Na.Escuridao.2018.1080p                                    tmdb id 417643
+#Name: Na.Mira.do.Medo.2018                                       tmdb id 539619                 
+#Name: Na.Selva.2018.1080p.BluRay                                 tmdb id 390062
+#Name: Nada a Esconder 2018                                       tmdb id 487476
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1536.mkv #Name: Nada.a.Perder.2018                                        
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1535.mp4 #Name: Nada.a.Perder.2018.1080p                                           
+#Name: Nada.a.Perder.2018.1080p.NF.WEB-DL.DD5.1.x264-Tars         tmdb id 502581
+#Name: Namoro ou Liberdade - BluRay 1080p                         tmdb id 225565
+#Name: Não Desligue - BluRay 1080p                                tmdb id 375355
+#Name: Não.Bata.na.Porta.2018.1080p                               tmdb id 480405
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1563.mp4 #Name: Não.Bata.na.Porta.2018.1080p.WEB-DL.x264.DUAL-L@L                 
+#Name: Nao.Vai.Dar.2018                                           tmdb id 437557
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1538.mkv #Name: Nao.Vai.Dar.2018.1080p                                              
+#Name: Nappily Ever After 2018                                    tmdb id 519035
+#Name: Náufrago - BluRay 1080p                                    tmdb id 8358
+#Name: Neds Jovens Delinquentes - BluRay 1080p                    tmdb id 55785
+#Name: Need for Speed - O Filme BluRaY 1080p                      tmdb id 136797
+#Name: Negócios Mortais - BluRay 1080p                            tmdb id 256347
+#Name: Nem Tudo é o que Parece - BluRay 1080p                     tmdb id 4836
+#Name: Next.Gen.2018                                              tmdb id 523777
+#Name: Nico (Acima da Lei) - BluRay 1080p                         tmdb id 9395
+#Name: Ninfomaníaca Vol. 2 - BluRay 1080p                         tmdb id 249397
+#Name: Ninja (A Máquina Assassina) - BluRay 1080p                 tmdb id 17205
+#Name: Ninja 2 – A Vingança - BluRay  1080p                       tmdb id 180894
+#Name: Ninja Assassino - BluRay 1080p                             tmdb id 22832
+#Name: No Coracao da Escuridao 2017                               tmdb id 458737
+#Name: No Limite do Amanhã - BluRay 1080p                         tmdb id 137113
+#Name: No Olho do Tornado - BluRay 1080p                          tmdb id 216282
+#Name: No.Olho.do.Furancao.2018                                   tmdb id 430040
+#Name: Noivos Por Acaso - BluRay 1080p                            tmdb id 166879
+#Name: Northern Soul No Ritmo da Vida - BluRay 1080p              tmdb id 297265
+#Name: Nostalgia 2018                                             tmdb id 442709
+#Name: Noviciado.2018                                             tmdb id 411976   
+#Name: Numa Fria - BluRay 1080p                                   tmdb id 51996
+#Name: Nymphomaniac Vol I - Bluray 1080p                          tmdb id 258216
+#Name: O 30º Dia - BluRa 1080p                                    tmdb id 68174
+#Name: O 6º Dia - BluRay 1080p                                    tmdb id 8452
+#Name: O Abrigo - Bluray 1080p                                    tmdb id 38541
+#Name: O Ancora (A Lenda de Ron Burgundy) - BluRay 1080p          tmdb id 8699
+#Name: O Anel do Rei A Ultima Batalha 2018                        tmdb id 432165
+#Name: O Anjo do Desejo - BluRay 1080p                            tmdb id 38753
+#Name: O Apocalipse - BluRay 1080p                                tmdb id 218043
+#Name: O Assassino de Shangtung - Bluray 1080p                    tmdb id 50569
+#Name: O Assassino O Primeiro Alvo - BluRay 1080p                 tmdb id 415842
+#Name: O Ataque dos Vermes Malditos 6 Um Dia Frio no Inferno 2018 tmdb id 496704
+#Name: O Atentado - BluRay 1080p                                  tmdb id 121791
+#Name: O Aventureiro  (A Maldição da Caixa de Midas) - BluRay     tmdb id 227707
+#Name: O Babá(ca) - BluRay 1080p                                  tmdb id 57431
+#Name: O Banquete 2018                                            tmdb id 535107
+#Name: O Buraco (2009) - BluRay 1080p                             tmdb id 45650
+#Name: O Caminho do Mal - BluRay 1080p                            tmdb id 255278
+#Name: O Candidato Honesto 2-2018                                 tmdb id 254439
+#Name: O Casamento do Ano - BluRay 1080p                          tmdb id 87567
+#Name: O Cavaleiro Solitário - BluRay 1080p                       tmdb id 57201
+#Name: O Céu é de Verdade - BluRay 1080p                          tmdb id 236751
+#Name: O Chacal - BluRay 1080p                                    tmdb id 4824
+#Name: O Chefe 2018                                               tmdb id 517298
+#Name: O Clube das Mães Solteiras - BluRay 1080p                  tmdb id 239562
+#Name: O Código - BluRay 1080p                                    tmdb id 72387
+#Name: O Colecionador de Corpos - Bluray 1080p                    tmdb id 21407
+#Name: O Colecionador de Corpos 2 - BluRay 1080p                  tmdb id 134597
+#Name: O Congresso Futurista - BluRay 1080p                       tmdb id 152795
+#Name: O Conselheiro do Crime - BluRay 1080p                      tmdb id 109091
+#Name: O Conto 2018                                               tmdb id 369523
+#Name: O Corvo - BluRay 1080p                                     tmdb id 9495
+#Name: O Demônio do Sono 2018                                     tmdb id 514277
+#Name: O Despertar - BluRay 1080p                                 tmdb id 77949
+#Name: O Despertar das Sombras 2018                               tmdb id 459475
+#Name: O Despertar do Mal - BluRay 1080p                          tmdb id 177552
+#Name: O Doador de Memórias - BluRay 1080p                        tmdb id 227156
+#Name: O Dono do Jogo - BluRay 108p                               tmdb id 245698
+#Name: O Dragão Dourado - BluRay 1080p                            tmdb id 59447
+#Name: O Encontro - BluRay 1080p                                  tmdb id 308638
+#Name: O Enigma Chinês - BluRay 1080p                             tmdb id 206408
+#Name: O Escorpião Rei 4 - BluRay 1080p                           tmdb id 297291
+#Name: O Escorpiao Rei 5 O Livro das Almas 2018                   tmdb id 522417
+#Name: O Espelho - BluRay 1080p                                   tmdb id 157547
+#Name: O Espetacular Homem-Aranha 2 (A Ameaça de Electro) - B     tmdb id 102382
+#Name: O Estranho Que Nós Amamos - BluRay 1080p                   tmdb id 399019
+#Name: O Estranho Thomas - BluRay 1080p                           tmdb id 179826
+#Name: O Exorcismo de Emily Rose - BluRay 1080p                   tmdb id 8643
+#Name: O Feitiço de Áquila - Bluray 1080p                         tmdb id 526
+#Name: O Feitiço do Natal 2018                                    tmdb id 555850
+#Name: O Filho de Deus - BluRay 1080p                             tmdb id 235260
+#Name: O Forasteiro Violência Sem Limites - BluRay 1080p          tmdb id 102629
+#Name: O Fugitivo - BluRay 1080p                                  tmdb id 10083
+#Name: O Grande Hotel Budapeste - BluRay 1080p                    tmdb id 120467
+#Name: O Grande Mestre - BluRay 1080p                             tmdb id 14756
+#Name: O Grande Mestre Beberrão – Bluray 1080p                    tmdb id 26259
+#Name: O Guerreiro do Amanhã - BluRay 1080p                       tmdb id 43930
+#Name: O Herdeiro do Diabo - BluRay 1080p                         tmdb id 79316
+#Name: O Hobbit - Uma Jornada Inesperada - BluRay 1080p           tmdb id 49051
+#Name: O Hobbit (A Desolação de Smaug) - Versão Estendida - B     tmdb id 57158
+#Name: O Homem do Tai Chi - BluRay 1080p                          tmdb id 76544
+#Name: O Homem dos Músculos de Aço - BluRay 1080p                 tmdb id 5205
+#Name: O Homem dos Punhos de Ferro - BluRay 1080p                 tmdb id 97430
+#Name: O Homem Duplicado - BluRay 1080p                           tmdb id 181886
+#Name: O Homem Mais Procurado - BluRay 1080p                      tmdb id 157849
+#Name: O Homem Mais Procurado do Mundo -BluRay 1080p              tmdb id 130267
+#Name: O Homem Que Inventou o Natal                               tmdb id 450322
+#Name: O Idiota do Meu Irmão - BluRay 1080p                       tmdb id 59968
+#Name: O Iluminado - BluRay 1080p                                 tmdb id 694
+#Name: O Impossível - BluRay 1080p                                tmdb id 80278
+#Name: O Jogo do Abismo.The Precipice Game.2016.1080p             tmdb id 409137
+#Name: O Jogo Mortal - BluRay 1080p                               tmdb id 183258
+#Name: O Lamento 2017                                             tmdb id 293670
+#Name: O Lobo de Wall Street – BluRay 1080p                       tmdb id 106646
+#Name: O Lobo Solitário (Mcquade) (1983) - BluRay 1080p           tmdb id 14854
+#Name: O Lugar Onde Tudo Termina - BluRay1080p                    tmdb id 97367
+#Name: O Mais Provavel Assassino 2018                             tmdb id 503758
+#Name: O Maravilhoso Agora - BluRay 1080p                         tmdb id 157386
+#Name: O Máskara - BluRay 1080p                                   tmdb id 854
+#Name: O Massacre da Serra Elétrica (2013) - BluRay 1080p         tmdb id 76617
+#Name: O Menino e o Urso - BluRay 1080p                           tmdb id 287935
+#Name: O Mestre da Guerra 2 - BluRay 1080p                        tmdb id 149085
+#Name: O Meu Melhor Companheiro - BluRay 1080p                    tmdb id 22660
+#Name: O Mistério da Passagem da Morte - BluRay 1080p             tmdb id 169219
+#Name: O Mistério do Relógio na Parede 2018(Cine coreia)          tmdb id 463821
+#Name: O Monstro de Duas Caras - Bluray 1080p                     tmdb id 3025
+#Name: O Mordomo da Casa Branca - BluRay 1080p                    tmdb id 132363
+#Name: O Natal de Madea - BluRay 1080p                            tmdb id 175555
+#Name: O Nosso Segredo - BluRay 1080p                             tmdb id 111473
+#Name: O Paizão - BluRay 1080p                                    tmdb id 9032
+#Name: O Passado - BluRay 1080p                                   tmdb id 152780
+#Name: O Peixe Grande _ Beg_nia - Big Fish _ Begonia -2018        tmdb id 271706
+#Name: O Peixe Grande & Begônia - Big Fish & Begonia -1080p       tmdb id 271706
+#Name: O Perigo Vem do Lago - BluRay 1080p                        tmdb id 191619
+#Name: O Planeta Vermelho - BluRay 1080p                          tmdb id 190847
+#Name: O Poder de Alguns - BluRay 1080p                           tmdb id 161321
+#Name: O Preço de um Resgate - BluRay 1080p                       tmdb id 3595
+#Name: O Predador 2018                                            tmdb id 346910
+#Name: O Predestinado - BluRay 1080p                              tmdb id 206487
+#Name: O Príncipe do Deserto - BluRay 1080p                       tmdb id 77221
+#Name: O Príncipe do Natal O Casamento Real 2018                  tmdb id 525041
+#Name: O Protetor - BluRay 1080p                                  tmdb id 156022
+#Name: O Protetor 2.2018                                          tmdb id 345887
+#Name: O que as Mulheres Querem - BluRay 1080p                    tmdb id 3981
+#Name: O Que Fazemos nas Sombras - BluRay 1080p                   tmdb id 246741                                                                            
+#Name: O Quinto Elemento - BluRay 1080p                           tmdb id 18
+#Name: O Rei Guerreiro 2018                                       tmdb id 427395
+#Name: O Resgate(stolen) - BluRay 1080p                           tmdb id 127493
+#Name: O Retorno do Dragão - A Cidade Perdida - BluRay 1080p      tmdb id 81870
+#Name: O Ritual 2018                                              tmdb id 433808
+#Name: O Segredo de Marrowbone 2018                               tmdb id 399366
+#Name: O Selvagem Da Motocicleta - BluRay 1080p                   tmdb id 232
+#Name: O Sequestro - BluRay 1080p                                 tmdb id 293768
+#Name: O Substituto - BluRay 1080p                                tmdb id 74308
+#Name: O Suspeito - BluRay 1080p                                  tmdb id 146233
+#Name: O Templo de Shaolin - Bluray 1080p                         tmdb id 45736
+#Name: O Teorema Zero - BluRay 1080p                              tmdb id 157834
+#Name: O Tiro - BluRay 1080p                                      tmdb id 159932
+#Name: O Tratamento - BluRay 1080p                                tmdb id 251577
+#Name: O Trem do Inferno - BluRay 1080p                           tmdb id 496704
+#Name: O Tubarão Fantasma - BluRay 1080p                          tmdb id 216539
+#Name: O Último Ato - BluRay 1080p                                tmdb id 254023
+#Name: O Último Desafio - BluRay 1080p                            tmdb id 76640
+#Name: O Último Exorcismo - Parte II - Sem Censura - BluRay 1080p tmdb id 146203
+#Name: O Último Round - BluRay 1080p                              tmdb id 81298
+#Name: O Último Suspiro 2018                                      tmdb id 461714
+#Name: O Vendedor Chinês 2018                                     tmdb id 461714
+#Name: O Voo - BluRay 1080p                                       tmdb id 87502
+#Name: O.Autor.2018                                               tmdb id 437036
+#Name: O.Aviso.2018                                               tmdb id 508018
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1694.mp4 #Name: O.Carma.de.um.Assassino.2018
+#Name: O.Carma.de.um.Assassino.2018.1080p                         tmdb id 455236
+#Name: O.Cavaleiro.Solitario.2013.1080p.bluray                    tmdb id 57201
+#Name: O.Conto.2018                                               tmdb id 84154
+#Name: O.Culto.2018.1080p.BluRay                                  tmdb id 430231
+#Name: O.Destino.De.Uma.Nacao.2018.720p.BluRay                    tmdb id 399404          
+#Name: O.Doutor.da.Felicidade.2018                                tmdb id 438348
+#Name: O.Estrangeiro.2017.1080p                                   tmdb id 379149
+#Name: O.Grito.da.Morte.2018                                      tmdb id 340185
+#Name: O.Melhor.Presente.e.o.Amor.2018                            tmdb id 462723
+#Name: O.Que.Te.Faz.Mais.Forte.2018.720p.BluRay                   tmdb id 395993
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1705.mp4 #Name: O.Rei.da.Montanha.2018
+#Name: O.Rei.da.Montanha.2018.1080p                               tmdb id 444090
+#Name: O.Rei.do.Show.2018.1080p.BluRay                            tmdb id 316029
+#Name: O.Touro.Ferdinando.2018.1080p                              tmdb id 364689
+#Name: O.Touro.Ferdinando.2018.1080p.BRRip.x264-DUAL-WolfCrazy    tmdb id 47166
+#Name: O.Vigilante.Mascarado.2018.1080p                           tmdb id 370464
+#Name: Oblivion - BluRay 1080p                                    tmdb id 75612
+#Name: Obsessão - BluRay 1080p                                    tmdb id 362644
+#Name: Oito.Mulheres.E.Um.Segredo.2018                            tmdb id 402900
+#Name: Oldboy (Dias de Vingança) - BluRay 1080p                   tmdb id 87516
+#Name: Olhos de Serpente - BluRay 1080p                           tmdb id 8688
+#Name: Onda de Choque 2018                                        tmdb id 441531
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1716.mkv #Name: Open.Water.3.Cage.Dive.2017
+#Name: Open.Water.3.Cage.Dive.2018                                tmdb id 420707
+#Name: Operação Invasão 2 - BluRay 1080p                          tmdb id 180299
+#Name: Operação Sombra - BluRay 1080p                             tmdb id 137094
+#Name: Operação Zodíaco – BluRay 1080p                            tmdb id 98567
+#Name: Operacao.Red.Sparrow.2018.1080p.BluRay                     tmdb id 401981
+#Name: Operation Finale 2018                                      tmdb id 493551
+#Name: Os Batutinhas – Uma Nova Aventura -BluRay 1080p            tmdb id 260535
+#Name: Os Cabeças de Vento - BluRay  1080p                        tmdb id 13595 
+#Name: Os Estagiários – Sem Cortes - BluRay 1080p                 tmdb id 4556
+#Name: Os Guardiões - BluRay 1080p                                tmdb id 354556
+#Name: Os Imperdoáveis - BluRay 1080p                             tmdb id 33
+#Name: Os Instrumentos Mortais – Cidade dos Ossos - BluRay 1080p  tmdb id 123553
+#Name: Os Mercenários 3 - BluRay 1080p                            tmdb id 138103
+#Name: Os Miseráveis - BluRay 1080p                               tmdb id 4415
+#Name: Os Olhos de Julia - BluRay 1080p                           tmdb id 52274
+#Name: Os Parças (2017) ForVirgins                                tmdb id 488503
+#Name: Os Reis da Noite - BluRay 1080p                            tmdb id 171363
+#Name: Os Selvagens da Noite - BluRay 1080p                       tmdb id 11474
+#Name: Os Suspeitos - BluRay 1080p                                tmdb id 146233
+#Name: Os Últimos Dias em Marte - BluRay                          tmdb id 190847
+#Name: Os.Crimes.de.Limehouse.2018                                tmdb id 369300
+#Name: Os.Curados.2018.1080p                                      tmdb id 469721
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1739.mkv #Name: Os.Escravos.de.Satanas.2018
+#Name: Os.Escravos.de.Satanás.2018.1080p                          tmdb id 467012
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1742.mp4 #Name: Os.Estranhos.Cacada.Noturna.2018
+#Name: Os.Estranhos.Cacada.Noturna.2018.1080p                     tmdb id 371608
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1744.mp4 #Name: Os.Vingadores.2012
+#Name: Os.Vingadores.2012.1080p                                   tmdb id 24428
+#Name: Oz Mágico e Poderoso - BluRay 1080p                        tmdb id 68728
+#Name: Paisagem de Natal 2018                                     tmdb id 550385
+#Name: Paixão Inocente - BluRay 1080p                             tmdb id 158907
+#Name: Paixão Obsessiva - BluRay 1080p                            tmdb id 65650
+#Name: Palavrões - BluRay 1080p                                   tmdb id 209403
+#Name: Palooza Pura Curtição - BluRay 1080p                       tmdb id 174188
+#Name: Pânico na Torre - BluRay 1080p                             tmdb id 154030
+#Name: Pânico.na.Cabana.2018.1080p                                tmdb id 452947
+#Name: Pânico.no.Lago.O.Legado.2018                               tmdb id 520466
+#Name: Papa Francisco Um Homem de Palavra 2018                    tmdb id 505205
+#Name: Papai Noel e Cia                                           tmdb id 451500
+#Name: Para Maiores - BluRay 1080p                                tmdb id 87818
+#Name: Para se Divertir, Ligue - BluRay 1080p                     tmdb id 84200
+#Name: Para.Todos.os.Garotos.que.Ja.Amei.2018                     tmdb id 466282
+#Name: Paranoia 2018                                              tmdb id 459258
+#Name: Paris A Qualquer Preço - BluRay 1080p                      tmdb id 203665
+#Name: Parker - BluRay 1080p                                      tmdb id 119283
+#Name: Passageiro 57 - BluRay 1080p                               tmdb id 10538
+#Name: Passageiros da Vida - BluRay 1080p                         tmdb id 252102
+#Name: Pato.Pato.Ganso.2018                                       tmdb id 375107
+#Name: Patrick (Despertar do Mal) BluRay 1080p                    tmdb id 199578
+#Name: Paulo.Apostolo.de.Cristo.2018.1080p                        tmdb id 476968
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1763.mp4 #Name: Paulo.Apostolo.de.Cristo.2018.1080p.BluRay-DRONES.DUAL-GUR
+#Name: Paz, Amor e Muito Mais - BluRay 1080p                      tmdb id 98545
+#Name: Pe Pequeno 2018                                            tmdb id 446894
+#Name: Pedro.Coelho.2018.REPACK.1080p.BluRay                      tmdb id 381719
+#Name: Pelo Direito de Ser Feliz 2018                             tmdb id 505444
+#Name: Perda.Total.2018.1080p                                     tmdb id 456750
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1771.mp4 #Name: Perdida.2018
+#Name: Perdida.2018.1080p                                         tmdb id 513223
+#Name: Perigo.Na.Montanha.2018.1080p.BluRay                       tmdb id 459910
+#Name: Permissão.2018                                             tmdb id 390059
+#Name: Perseguição 3 (Correndo para a Morte - Sem                 tmdb id 259074
+#Name: Perseguição Criminosa.2018                                 tmdb id 513691
+#Name: Perseguicao Explosiva 2017                                 tmdb id 473920
+#Name: Perseguição Implacável - BluRay 1080p                      tmdb id 241765
+#Name: Perseguição Virtual - BluRay 1080p                         tmdb id 151368
+#Name: Pesadelos do Passado - BluRay 1080p                        tmdb id 111440
+#Name: Pesadelos.Mortais.2018.PROPER.1080p.BluRay                 tmdb id 463602
+#Name: Phantom.Thread.2017.1080p.BluRay                           tmdb id 400617
+#Name: Planeta dos Macacos (O Confronto) -                        tmdb id 119450
+#Name: Ploey.Você.Nunca.Voará.Sozinho.2018                        tmdb id 25461
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1783.mkv #Name: Ploey.Você.Nunca.Voará.Sozinho.2018.720p
+#Name: Policial em Apuros - BluRay 1080p                          tmdb id 168530
+#Name: Poltergeist (O Fenômeno) - BluRay 1080p                    tmdb id 243688
+#Name: Ponto Cego 2018                                            tmdb id 489930
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1789.mp4 #Name: Por.Tras.Dos.Seus.Olhos.2018
+#Name: Por.Tras.Dos.Seus.Olhos.2018.1080p                         tmdb id 345923
+#Name: Possuídos - BluRay 1080p                                   tmdb id 10664
+#Name: Preciso Ser Pai - BluRay 1080p                             tmdb id 120292
+#Name: Presa na Escuridão - BluRay 1080p                          tmdb id 199591
+#Name: Presos no Gelo 3 - BluRay 1080p                            tmdb id 56937
+#Name: Primeira Chegada 2018                                      tmdb id 470894
+#Name: Prisao Estelar 2018                                        tmdb id 522964
+#Name: Private Life 2018                                          tmdb id 458342
+#Name: Procura-se Rapaz Virgem - BluRay 1080p                     tmdb id 19064
+#Name: Profissão de Risco - BluRay 1080p                          tmdb id 4133
+#Name: Projeto Dinossauro - BluRay 1080p                          tmdb id 119698
+#Name: Puro Sangue 2018                                           tmdb id 397722
+#Name: Quase.Amigos.2018                                          tmdb id 436459
+#Name: Que Fim Levou Papai Noel - BluRay 1080p                    tdmb id 250535
+#Name: Quebra de Conduta - BluRay 1080p                           tmdb id 170689
+#Name: Queda Mortal - BluRay 1080p                                tmdb id 227229
+#Name: Questão de Tempo - BluRay 1080p                            tmdb id 122906
+#Name: R.I.P.D - Bluray 1080p                                     tmdb id 49524
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1812.mp4 #Name: Rampage.2018                                              
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1811.mkv #Name: Rampage.2018.1080p                                        
+#Name: Rampage.2018.1080p.BluRay-SPARKS.DUAL-GUR                  tmdb id 427641
+#Name: Razão e Sensibilidade - BluRay 1080p                       tmdb id 4584
+#Name: Receitas de Amor - BluRay 1080p                            tmdb id 66945
+#Name: Recovery.Boys.720p.2018                                    tmdb id 522393
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1815.mp4 #Name: Recovery.Boys.720p.2018.WEBRip.YIFY.x264.DUAL-NoUsEr       
+#Name: Recuperando a Esperança - BluRay 1080p                     tmdb id 176124
+#Name: Refém da Paixão - BluRay 1080p                             tmdb id 130150
+#Name: Reféns em Saratov - BluRay 1080p                           tmdb id 224076
+#Name: Rei Arthur A Volta de Excalibur 2018                       tmdb id 447427
+#Name: Resposta Armada - BluRay 1080p                             tmdb id 450932
+#Name: Retroceder Nunca, Render-se Jamais - BluRay 1080p          tmdb id 12721
+#Name: Ricardo, Coração de Leão - BluRay  1080p                   tmdb id 188357
+#Name: Riddle - BluRay 1080p                                      tmdb id 170194
+#Name: Riot.2018                                                  tmdb id 505444          
+#Name: RoboCop (2014) - BluRay 1080p                              tmdb id 97020
+#Name: Robosapien - O Meu Melhor Amigo - BluRay 1080p             tmdb id 187462
+#Name: Romans.2017.1080p                                          tmdb id 25461
+#Name: Romeu e Julieta - BluRay 1080p                             tmdb id 6003
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1831.mp4 #Name: Romina.2018                                               
+#Name: Romina.2018.1080p                                          tmdb id 535488
+#Name: Rota de Fuga - 1080p                                       tmdb id 107846
+#Name: Rota de Fuga 2 Hades 2018                                  tmdb id 440471  
+#Name: Roubar é uma Arte - BluRay 1080p                           tmdb id 209247
+#Name: Roubo a Máfia - BluRay 1080p                               tmdb id 243935
+#Name: Sabotagem - BluRay 1080p                                   tmdb id 144336
+#Name: Sacrifício - BluRay 1080p                                  tmdb id 24657
+#Name: Saindo do Armário - BluRay 1080p                           tmdb id 99367
+#Name: Samurai X – O Filme BluRay 1080p                           tmdb id 39977
+#Name: Sansao 2018                                                tmdb id 474392
+#Name: Saras.Notebook.2018.1080p.BluRay                           tmdb id 449019
+#Name: Se Beber, Não Entre no Jogo – Sem Cortes –                 tmdb id 244688
+#Name: Se Você Soubesse 2018                                      tmdb id 470818
+#Name: Sedução do Mal - BluRay 1080p                              tmdb id 224908
+#Name: Seed 2 (A Nova Geração) - BluRay 1080p                     tmdb id 283327
+#Name: Segredos Mortais - BluRay 1080p                            tmdb id 180607
+#Name: Selvagens - BluRay 1080p                                   tmdb id 489542
+#Name: Sem Escalas - BluRay 1080p                                 tmdb id 225574
+#Name: Sem Evidências - BluRay 1080p                              tmdb id 152792
+#Name: Sem Perdão - BluRay 1080p                                  tmdb id 339692
+#Name: Sem Proteção - BluRay 1080p                                tmdb id 87496
+#Name: Sem Regras - BluRay 1080p                                  tmdb id 19713
+#Name: Sem Segurança Nenhuma - BluRay 1080p                       tmdb id 84332
+#Name: Senhor do Crime - BluRay 1080p                             tmdb id 227359
+#Name: Sera que - BluRay 1080p                                    tmdb id 212716
+#Name: Set.It.Up.2018.1080p                                       tmdb id 384677
+#Name: Sete Dias Sem Fim - BluRay 1080p                           tmdb id 239678
+#Name: Sete Homens E um Destino - Bluray 1080p                    tmdb id 333484
+#Name: Sete Minutos - BluRay 1080p                                tmdb id 200511
+#Name: Sex Tape Gravação do Medo - BluRay                         tmdb id 228496
+#Name: Sexo, Amor e Terapia - BluRay 1080p                        tmdb id 289153
+#Name: Sexy por Acidente 2018                                     tmdb id 460668
+#Name: Shirkers 2018                                              tmdb id 489994
+#Name: Show Dogs O Agente Canino 2018                             tmdb id 425148
+#Name: Siberia.2018                                               tmdb id 438689
+#Name: Sicario Day Of The.Soldado 2018                            tmdb id 400535
+#Name: Sin City (A Dama Fatal) - BluRay 1080p                     tmdb id 189
+Skyline.Alem.do.Horizonte.2017.720p.BluRay                        tmdb id 271404
+#Name: Slender Man Pesadelo Sem Rosto 2018                        tmdb id 439015
+#Name: Só Deus Perdoa - BluRay 1080p                              tmdb id 77987
+#Name: Sob a Pele - BluRay 1080p                                  tmdb id 97370
+#Name: Sobre Ontem à Noite - BluRay 1080p                         tmdb id 222899
+#Name: Sobrenatural – Capítulo 2 - BluRay 1080p                   tmdb id 91586
+Sobrenatural.A.Ultima.Chave.2018.1080p.BluRay                     tmdb id 406563
+#Name: Sobrevivendo ao Meu Pai 2018                               tmdb id 434596
+#Name: Sobreviventes - BluRay 1080p                               tmdb id 228973
+#Name: Soldado Anônimo 2 (Campo em Chamas) -                      tmdb id 285423
+#Name: Soldado do Futuro - BluRay 1080p                           tmdb id 9425
+#Name: Soldados da Fortuna - BluRay 1080p                         tmdb id 112304
+#Name: Soldados de Gelo - BluRay 1080p                            tmdb id 255692
+#Name: Sombra Ardente 2018                                        tmdb id 467240
+#Name: Somos o que Somos - BluRay 1080p                           tmdb id 159128
+#Name: Sono Mortal - BluRay 1080p                                 tmdb id 406107
+#Name: Sou Louco Por Você - BluRay 1080p                          tmdb id 109689
+Spark.Uma.Aventura.Espacial.2018.1080p.BLURAY                     tmdb id 322487
+#Name: Sparkle O Brilho de uma Estrela -                          tmdb id 88036
+#Name: Spawn - O Soldados do Inferno -                            tmdb id 10336
+#Name: SPF-18 2018                                                tmdb id 472838
+#Name: Splash (Uma sereia em Minha Vida) -                        tmdb id 2619
+#Name: Spring Breakers Garotas Perigosas -                        tmdb id 122081
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1891.mp4 #Name: Star.Wars.Os.Ultimos.Jedi.2018.1080p
+#Name: Star.Wars.Os.Ultimos.Jedi.2018.1080p.BluRay.x264           tmdb id 181808
+#Name: Starman (O Homem das Estrelas) - BluRay                    tmdb id 9663
+#Name: Steel.Rain.2017.1080p                                      tmdb id 435841
+#Name: Stephanie 2018                                             tmdb id 333357
+#Name: Street Dance - Duas Vezes Mais Quente -                    tmdb id 85373
+#Name: Stretch - BluRay 1080p                                     tmdb id 227300
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1897.mp4 #Name: Stronger 2017             
+#Name: Stronger.2017.1080p.BluRay                                 tmdb id 395993
+#Name: Submergence.2017.720p.BluRay                               tmdb id 375327
+#Name: Sundays.Illness.2017.1080p                                 tmdb id 442811
+#Name: Super Dark Times - BluRay 1080p                            tmdb id 396940
+#Name: SuperFly 2018                                              tmdb id 500475
+#Name: Supergirl - BluRay 1080p                                   tmdb id 62688
+#Name: Take Me 2018                                               tmdb id 426272
+#Name: Tão Descolada Quanto Eu - BluRay 1080p                     tmdb id 83869
+#Name: Tapped Out (A Revanche) - BluRay 1080p                     tmdb id 257447
+#Name: Te Pego Lá Fora - BluRay 1080p                             tmdb id 13339
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1908.mkv #Name: Te.Peguei.2018
+#Name: Te.Peguei.2018_2                                           tmdb id 455980
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1911.mp4 #Name: Tem Alienigenas no Meu Quarto
+#Name: Tem Alienigenas no Meu Quarto 2018                         tmdb id 505618
+#Name: Temporada de Caça - BluRay 1080p                           tmdb id 68151
+#Name: Terapia de Risco - BluRay 1080p                            tmdb id 109421
+#Name: Terapia Intensiva - BluRay 1080p                           tmdb id 160768
+#Name: Terra Prometida - BluRay 1080p                             tmdb id 66825
+#Name: Terra.Selvagem.2018.1080p.BluRay                           tmdb id 395834
+#Name: Terreno Proibido - BluRay 1080p                            tmdb id 215814
+#Name: Terror na Ilha - BluRay 1080p                              tmdb id 84178
+#Name: Tese Sobre um Homicídio - BluRay 1080p                     tmdb id 167963
+#Name: The Ballad of Buster Scruggs 2018                          tmdb id 537996
+#Name: The Commuter 2018 1080p BluRay                             tmdb id 399035
+#Name: The Debt Collector 1080p 2018  BLURAY                      tmdb id 513691
+#Name: The Hatton Garden Job 2017                                 tmdb id 448847
+#Name: The Late Bloomer 2016 MULTI 1080p                          tmdb id 413471
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1926.mp4 #Name: The Liquidator 2018
+#Name: The Liquidator 2018 1080P                                  tmdb id 494858
+#Name: The Mimic.2018.1080p                                       tmdb id 437108
+#Name: The Night Comes for Us 2018                                tmdb id 449992
+#Name: The Princess Switch 2018                                   tmdb id 556803
+#Name: The.Amityville.Terror.2018.1080p                           tmdb id 410537
+#Name: The.Darkest.Dawn.2016.1080p                                tmdb id 423733
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1933.mp4 #Name: The.Guernsey.Literary.and.Potato.Peel.Pie.Society.2018
+#Name: The.Guernsey.Literary.and.Potato.Peel.Pie.Society.         tmdb id 451480
+#Name: The.Kissing.Booth.2018.iNTERNAL.1080p                      tmdb id 454983
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1936.mp4 #Name: The.Legacy.of.a.Whitetail.Deer.Hunter.2018.1080p
+#Name: The.Legacy.of.a.Whitetail.Deer.Hunter.2018.1080p           tmdb id  311307
+#Name: The.Package.2018.1080p                                     tmdb id 503619
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1938.mp4 #Name: The.Package.2018.2
+#Name: The.Pirates.of.Somalia.2018                                tmdb id 394537
+#Name: The.Post.A.Guerra.Secreta.2018.1080p.BluRay                tmdb id 446354
+#Name: The.Sense.Of.An.Ending.2017.LIMITED.1080p.BluRay           tmdb id 354285
+#Name: Thi Mai 2018                                               tmdb id 437294
+#Name: Thor 2 – O Mundo Sombrio - BluRay 1080p                    tmdb id 76338
+#Name: Thor.Ragnarok                                              tmdb id 284053
+#Name: Three.Billboards.Outside.Ebbing.Missouri.2017.1080p.BluRay tmdb id 359940
+#Name: Tiros Garotas e Trapaças - BluRay 1080p                    tmdb id 132923
+#Name: Titanic.Versao.Estendida.1997-1080p                        tmdb id 597
+#Name: Todo Dia Every Day 2018                                    tmdb id 465136
+#Name: Todo Mundo em Pânico 5 - BluRay 1080p                      tmdb id 4258
+#Name: Todo Mundo Hispanico - BluRay 1080p                        tmdb id 35640
+#Name: Tomb.Raider.2018.1080p.BluRay                              tmdb id 338970
+#Name: Topazio - BluRay 1080p                                     tmdb id 2370
+#Name: Toque de Mestre - BluRay 1080p                             tmdb id 220286
+#Name: Traffik 2018                                               tmdb id 473149
+#Name: Transformers 4 (A Era da Extinção) - BluRay 1080p          tmdb id 91314
+#Name: Trem Noturno para Lisboa - BluRay 1080p                    tmdb id 160139
+#Name: Truque de Mestre – BluRay 1080p                            tmdb id 75656
+#Name: Tubarão - BluRay 1080p                                     tmdb id 502639
+#Name: Tudo para Ficar com Ela - BluRay 1080p                     tmdb id 259018
+#Name: Tudo Por Justiça - BluRay 1080p                            tmdb id 164457
+#Name: Tudo Por um Bebê - BluRay 1080p                            tmdb id 98066
+#Name: Tudo Por um Furo - BluRay 1080p                            tmdb id 109443
+#Name: Tudo por um Sonho - BluRay 1080p                           tmdb id 82684
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1965.mp4 #Name: Tudo.Começa.no.Brooklyn.2018.1080p
+#Name: Tudo.Começa.no.Brooklyn.2018.1080p.WEB-DL.H264-CMRG.DUAL-  tmdb id 481942
+#Name: Tully.2018                                                 tmdb id 400579
+#Name: Tumba Aberta - BluRay 1080p                                tmdb id 215830
+#Name: Turma da Pesada (Pesos Pesados) - BluRay  1080p            tmdb id 14819
+#Name: Twister - BluRay 1080p                                     tmdb id 664
+#Name: Tyler.Perrys.Boo.2.A.Madea.Halloween.2017.1080p.BluRay     tmdb id 459202
+#Name: UFO 2018                                                   tmdb id 426865
+#Name: Último Desejo - BluRay 1080p                               tmdb id 152745
+#Name: Último Tango em Paris – Bluray 1080p                       tmdb id 1643
+#Name: Um Álibi Perfeito - BluRay 1080p                           tmdb id 240916
+#Name: Um Bom Partido - BluRay 1080p                              tmdb id 77875
+#Name: Um Caso Complicado - BluRay 1080p                          tmdb id 56272
+#Name: Um Conto do Destino – BluRay 1080p                         tmdb id 137321
+#Name: Um Dia a Casa Cai - BluRay 1080p                           tmdb id 10466
+#Name: Um Final de Semana em Hyde Park - BluRay 1080p             tmdb id 87504
+#Name: Um Golpe Perfeito - BluRay 1080p                           tmdb id 97434
+#Name: Um Grito de Socorro - BluRay 1080p                         tmdb id  193418
+#Name: Um Herói de Brinquedo 2 - BluRay  1080p                    tmdb id 289728
+#Name: Um Homem Contra Wall Street - BluRay 1080p                 tmdb id 184125
+#Name: Um Lugar Chamado Notting Hill - BluRay 1080p               tmdb id 509
+#Name: Um Milhão de Maneiras de Pegar na Pistola - BluRay 1080p   tmdb id 188161
+#Name: Um Novo Olhar - BluRay 1080p                               tmdb id 364733
+#Name: Um Pedido de Natal - BluRay 1080p                          tmdb id 410314
+#Name: Um Porto Seguro - BluRay 1080p                             tmdb id 112949
+#Name: Um Sonho Distante - BluRay 1080p                           tmdb id 11259
+#Name:Um.Dia.de.Caos.2018.LIMITED.1080p.BluRay                    tmdb id 429733
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1990.mp4 #Name: Um.Dia.Para.Viver.2018    
+#Name: Um.Dia.Para.Viver.2018.1080p                               tmdb id 470114
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1994.mp4 #Name: Um.Filho.que.Caiu.do.Céu.2018   
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/1992.mkv #Name: Um.Filho.Que.Caiu.do.Ceu.2018.1080p     
+#Name:Um.Filho.que.Caiu.do.Céu.2018.720p.BluRay.x264-LOST.DUAL-   tmdb id 443398
+#Name: Um.Lugar.Silencioso.2018                                   tmdb id 23606
+#Name: Um.Perfil.para.Dois.2018.BluRay.1080p                      tmdb id 434273
+#Name: Um.Tira.e.Meio.A.Nova.Recruta.2018.1080p                   tmdb id 461297
+#Name: Uma Aventura Animal - BluRay 1080p                         tmdb id 139890
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/2001.mp4 #Name: Uma Dobra no Tempo.2018   
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/2000.mp4 #Name: Uma Dobra no Tempo.2018.1080p     
+#Name: Uma Dobra no Tempo.2018.1080p.WEB-DL.Dual-L@L              tmdb id 407451
+#Name: Uma Família em Apuros - BluRay 1080p                       tmdb id 88042 
+#Name: Uma Juiza Sem Juizo - BluRay 1080p                         tmdb id 200713
+#Name: Uma Ladra Sem Limites - BluRay 1080p                       tmdb id 109431
+#Name: Uma Longa Queda - Bluray 1080p                             tmdb id 141043
+#Name: Uma Longa Viagem - BluRay 1080p                            tmdb id 127560
+#Name: Uma Noite Alucinante (A Morte do Demônio) 1080P            tmdb id 764
+#Name: Uma Noite Alucinante 2 - BluRay 1080P                      tmdb id 765
+#Name: Uma Noite Alucinante 3 - BluRay 1080P                      tmdb id 766
+#Name: Uma Razao Para Viver 2018                                  tmdb id 407445
+#Name: Uma.Dobra.no.Tempo.2018                                    tmdb id 407451
+#Name: Uma.Viagem.Para.Espanha.2018.LIMITED                       tmdb id 426264
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/2012.mkv #Name: Uma.Viagem.Para.Espanha.2018.LIMITED.720p
+#Name: Under sandet 2018 1080p BluRay                             tmdb id 335578
+#Name: Vampiros de John Carpenter - BluRay 1080p                  tmdb id 9945
+#Name: Venom 2018                                                 tmdb id 335983
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/2016.mp4 #Name: Venom 2018(Cine)
+#Name: Verdade.ou.Desafio.2018                                    tmdb id 460019
+#Name: Vida de Solteiro - BluRay 1080p                            tmdb id 11068
+#Name: Vidas à Deriva 2018                                        tmdb id 429300
+#Name: Vingadores.Era.de.Ultron.2015.1080p                        tmdb id 99861
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/2023.mp4 #Name: Vingadores.Guerra.Inifinita.2018
+#Name: Vingadores.Guerra.Inifinita.2018.1080p                     tmdb id 299536
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/2024.mp4 #Name: Vingança.2017
+#Name: Vingança.2018.720p                                         tmdb id 467938
+#Name: Volcano (A Fúria) - BluRay 1080p                           tmdb id 10357
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/2028.mkv #Name: Wakefield.2016
+#Name: Wakefield.2016.1080p.BluRay                                tmdb id 369894
+#Name: Westworld (Onde Ninguém Tem Alma) - BluRay 1080p           tmdb id 2362
+http://miav01.ddns.me:25461/movie/uwmSG8n1aU/6viZTIeriV/2031.mp4 #Name: White.Fang.2018.1080p
+#Name: White.Fang.2018.1080p                                      tmdb id 456154
+#Name: Woman Walks Ahead 2018                                     tmdb id 396373
+#Name: Wraith (A Aparição) - BluRay 1080p                         tmdb id 451067
+#Name: Zoe e Raven Os Doze Presentes de Natal 2018                tmdb id 567145
+#Name: Zombies 2018                                               tmdb id 472876
+                                                      
